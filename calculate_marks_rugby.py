@@ -59,7 +59,7 @@ def mark_student(student):
         else:
             student_feedback.append("Incorrect score for file 1\n")
     else:
-        student_feedback.append("No file output for test file 1\n")
+        student_feedback.append("No file output or incorrect output format for test file 1\n")
 
     if file_2 != None:
         if file_2 == correct_2:
@@ -68,7 +68,7 @@ def mark_student(student):
         else:
             student_feedback.append("Incorrect score for file 2\n")
     else:
-        student_feedback.append("No file output for test file 2\n")
+        student_feedback.append("No file output or incorrect output format for test file 2\n")
 
     if file_3 != None:
         if file_3 == correct_3:
@@ -77,7 +77,7 @@ def mark_student(student):
         else:
             student_feedback.append("Incorrect score for file 3\n")
     else:
-        student_feedback.append("No file output for test file 3\n")
+        student_feedback.append("No file output or incorrect output format for test file 3\n")
 
 
 
