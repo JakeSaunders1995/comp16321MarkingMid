@@ -35,20 +35,20 @@ def mark_student(student):
 
 
     student = student.rstrip()
-
+    print(student)
     #Checking that the files exist and if so reads them
     try:
-        file_1 = (open(f'results_rugby/test_file1_{student}.txt', 'r')).readline()
+        file_1 = (open(f'./CW_rugby/rugby_{student}/results_rugby/test_file1_{student}.txt', 'r')).readline()
     except FileNotFoundError:
         file_1 = None
 
     try:
-        file_2 = (open(f'results_rugby/test_file2_{student}.txt', 'r')).readline()
+        file_2 = (open(f'./CW_rugby/rugby_{student}/results_rugby/test_file2_{student}.txt', 'r')).readline()
     except FileNotFoundError:
         file_2 = None
 
     try:
-        file_3 = (open(f'results_rugby/test_file3_{student}.txt', 'r')).readline()
+        file_3 = (open(f'./CW_rugby/rugby_{student}/results_rugby/test_file3_{student}.txt', 'r')).readline()
     except FileNotFoundError:
         file_3 = None
 
