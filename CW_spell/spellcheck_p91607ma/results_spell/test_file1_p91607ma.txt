@@ -1,0 +1,9 @@
+p91607ma 
+Formatting ################################# 
+Number of upper case words transformed: 3
+Number of Punctuation's removed: 2
+Number of numbers removed: 3
+SpellChecking ###############################
+Number of words in file: 17
+Number of Correct words in file: 16
+Number of incorrect words in file: 1

@@ -1,0 +1,9 @@
+v12433ak
+Formatting ###################
+Number of upper case letters changed: 3
+Number of punctuation's removed 1
+Number of numbers removed: 3
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 17
+Number of incorrect word: 0

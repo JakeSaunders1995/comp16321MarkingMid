@@ -1,0 +1,9 @@
+z89079mb
+Formatting ###################
+Number of upper case words changed: 3
+Number of punctuations removed: 4
+Number of numbers removed: 0
+Formatting ###################
+Number of words: 27
+Number of correct words: 27
+Number of incorrect words: 0

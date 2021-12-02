@@ -1,0 +1,9 @@
+n62189sd
+Formatting ###################
+Number of upper case letters changed: 3
+Number of punctuations removed: 4
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 28
+Number of correct words: 22
+Number of incorrect words: 6

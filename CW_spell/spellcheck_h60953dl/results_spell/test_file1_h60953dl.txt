@@ -1,0 +1,9 @@
+h60953dl 
+Formatting ################### 
+Number of upper case letters changed: 3
+Number of punctuations removed: 2
+Number of numbers removed: 2
+SpellChecking ################### 
+Number of words: 17
+Number of correct words: 16
+Number of incorrect words: 1

@@ -1,0 +1,9 @@
+q50676ep
+Formatting ###########
+Number of upper case letters change: 3
+Number of punctuations removed: 4
+Number of numbers removed: 0
+Spellchecking ###########
+Number of words: 26
+Number of correct words: 21
+Number of incorrect words: 5

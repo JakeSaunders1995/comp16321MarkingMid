@@ -1,0 +1,10 @@
+g21898tg
+Formatting ##########
+Number of uppercase word(s) transformed: 3
+Number of punctuation removed: 2
+Number of number(s) removed: 3
+Spellchecking ##########
+Number of words in file: 17
+Number of correct words in file: 16
+Number of incorrect words in file: 1
+    

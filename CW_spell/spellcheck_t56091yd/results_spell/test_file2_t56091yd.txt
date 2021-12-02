@@ -1,0 +1,9 @@
+t56091yd
+Formatting ###################
+Number of upper case letters changed: 3
+Number of punctuations removed: 1
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 15
+Number of incorrect words:2

@@ -1,0 +1,9 @@
+ p80249ra 
+ Formatting ################### 
+ Number of upper case words transformed: 3 
+ Number of punctuation’s removed: 4 
+ Number of numbers removed: 0 
+ Spellchecking ################### 
+ Number of words: 27 
+ Number of correct words: 21 
+ Number of incorrect words: 6 

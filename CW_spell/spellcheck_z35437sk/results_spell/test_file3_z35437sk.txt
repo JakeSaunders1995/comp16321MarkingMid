@@ -1,0 +1,10 @@
+
+z35437sk
+Formatting ###################
+Number of upper case letters changed: 3
+Number of punctuations removed: 4
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words in file: 27
+Number of correct words in file: 21
+Number of incorrect words in file: 6

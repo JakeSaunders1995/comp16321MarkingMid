@@ -1,0 +1,9 @@
+p23525lg
+Formatting ###################
+Number of upper case words changed: 3
+Number of punctuation removed: 2
+Number of numbers removed: 3
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 16
+Number of incorrect words: 1

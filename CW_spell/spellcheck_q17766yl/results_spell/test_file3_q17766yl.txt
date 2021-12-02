@@ -1,0 +1,9 @@
+q17766yl
+Formatting ###################
+Number of upper case letters changed: 3
+Number of punctuations removed: 4
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 27
+Number of correct words: 27
+Number of incorrect words: 0

@@ -16,7 +16,7 @@ if __name__ == '__main__':
             subprocess.call(make_input)
             make_input2 = ['mkdir', f'./CW_encrypt/{stripped_cw}/results_encrypt', ]
             subprocess.call(make_input2)
-            copy_input = ['cp', '-r', f'./test_files_encrypt', f'./CW_encrypt/{stripped_cw}/test_files_encrypt', ]
+            copy_input = ['cp', '-r', f'./test_files_encrypt', f'./CW_encrypt/{stripped_cw}', ]
             subprocess.call(copy_input)
 
     for cw in cw_list:
@@ -25,7 +25,7 @@ if __name__ == '__main__':
         os.chdir(f'./CW_encrypt/{stripped_cw}')
 
 
-        inputs= ['python3', f'./{cw}.py', './test_files_encrypt/test_files_encrypt', f'./results_encrypt' ]
+        inputs= ['python3', f'./{cw}.py', './test_files_encrypt', f'./results_encrypt' ]
         subprocess.run(inputs)
 
         #returns to default chdir

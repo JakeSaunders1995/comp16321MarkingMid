@@ -1,0 +1,9 @@
+c43480ct
+Formatting ###################
+Number of upper case words changed: 3
+Number of punctiations removed: 4
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 27
+Number of correct words: 21
+Number of incorrect words: 6

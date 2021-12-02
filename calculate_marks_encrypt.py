@@ -1,8 +1,8 @@
 import csv
 
 correct_hex = "a broken clock is right twice a day"
-correct_caesar = "but caesar is a little more difficult"
-correct_morse = "however solving morse code may be the most difficult"
+correct_caesar = "though clocks cannot think for themselves"
+correct_morse = "but if they could they would probably tick along quite nicely"
 
 #Globals
 hex_mark = 0
@@ -29,12 +29,12 @@ def mark_student(student):
     try:
         file_1 = (open(f'./CW_encrypt/decrypt_{student}/results_encrypt/test_file1_{student}.txt', 'r')).readline()
     except FileNotFoundError:
-        file_3 = None
+        file_1 = None
 
     try:
         file_2 = (open(f'./CW_encrypt/decrypt_{student}/results_encrypt/test_file2_{student}.txt', 'r')).readline()
     except FileNotFoundError:
-        file_3 = None
+        file_2 = None
 
     try:
         file_3 = (open(f'./CW_encrypt/decrypt_{student}/results_encrypt/test_file3_{student}.txt', 'r')).readline()
@@ -43,7 +43,7 @@ def mark_student(student):
 
     if file_1 != None:
         if file_1 == correct_hex:
-            file_1_mark = 1
+            hex_mark = 1
             student_feedback.append("Correct hex decryption for file 1\n")
         else:
             student_feedback.append("Incorrect hex decryption for file 1\n")
@@ -52,7 +52,7 @@ def mark_student(student):
 
     if file_2 != None:
         if file_2 == correct_caesar:
-            file_2_mark = 1
+            caesar_mark = 1
             student_feedback.append("Correct caesar decryption for file 2\n")
         else:
             student_feedback.append("Incorrect caesar decryption for file 2\n")
@@ -61,7 +61,7 @@ def mark_student(student):
 
     if file_3 != None:
         if file_3 == correct_morse:
-            file_3_mark = 1
+            morse_mark = 1
             student_feedback.append("Correct morse decryption for file 3\n")
         else:
             student_feedback.append("Incorrect morse decryption for file 3\n")

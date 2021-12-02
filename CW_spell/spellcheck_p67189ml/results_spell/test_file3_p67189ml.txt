@@ -1,0 +1,9 @@
+p67189ml
+Formatting ###################
+Number of upper case words changed: 3
+Number of punctuations removed: 10
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 24
+Number of correct words: 24
+Number of incorrect words: 0

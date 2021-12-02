@@ -1,0 +1,9 @@
+j17768ms
+Formatting ###################
+Number of upper case words changed: 3
+Number of punctuations removed 2
+Number of numbers rmeoved: 3
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 16
+Number of incrrect words: 1

@@ -1,0 +1,9 @@
+j96158ap
+Formatting ###################
+Number of upper case words changed: 3
+Number of punctuations removed: 2
+Number of numbers removed: 3
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 16
+Numbers of incorrect words: 1
