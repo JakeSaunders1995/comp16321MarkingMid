@@ -1,0 +1,9 @@
+z03463sy
+Formatting ###################
+Number of upper case words transformed:5
+Number of punctuation’s removed:9
+Number of numbers removed:4
+Formatting ###################
+Number of words:30
+Number of correct words:28
+Number of incorrect words:2

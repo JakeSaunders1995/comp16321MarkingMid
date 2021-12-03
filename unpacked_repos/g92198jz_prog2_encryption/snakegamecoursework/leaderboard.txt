@@ -1,0 +1,7 @@
+Bob,75
+Adam,92
+Bart,66
+Lisa,25
+Robin,22
+robin,10
+Tom,10

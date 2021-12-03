@@ -1,0 +1,9 @@
+K92160ym 
+Formatting ###################
+Number of upper case words transformed:4 
+Number of punctuation’s removed:7 
+Number of numbers removed:0 
+Spellchecking ###################
+Number of words in file:44
+Number of correct words in file:43
+Number of incorrect words in file:1

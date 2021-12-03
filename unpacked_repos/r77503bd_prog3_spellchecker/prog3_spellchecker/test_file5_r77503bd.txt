@@ -1,0 +1,9 @@
+r77503bd
+Formatting ##################
+Number of upper case letters transformed: 4
+The number of punctuation points removed: 7
+The number of numbers removed: 0
+Spellchecking ##################
+Number of words: 44
+Number of correct words: 43
+Number of incorrect words: 1

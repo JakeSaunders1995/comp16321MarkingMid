@@ -1,0 +1,8 @@
+Formatting ###################
+Number of upper case words transformed: 4
+Number of punctuations removed: 5
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words in file: 54
+Number of correct words in file: 54
+Number of incorrect words in file: 0

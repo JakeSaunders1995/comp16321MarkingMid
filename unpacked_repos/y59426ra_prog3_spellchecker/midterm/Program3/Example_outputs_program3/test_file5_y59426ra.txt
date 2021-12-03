@@ -1,0 +1,8 @@
+y59426raFormatting ###############
+Number of upper case words changed: 4
+Number of Punctioations removed: 7
+Number of numbers removed: 1
+Formatting ###############
+Number of Words: 44
+Number of Correct Words: 43
+Number of incorrect words: 1

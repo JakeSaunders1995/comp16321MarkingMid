@@ -1,0 +1,9 @@
+x63917cd
+Formatting ###################
+Number of upper case letters changed: 0
+Number of punctuations removed: 6
+Number of numbers removed: 4
+Spellchecking ###################
+Number of words: 2
+Number of correct words: 0
+Number of incorrect words: 2

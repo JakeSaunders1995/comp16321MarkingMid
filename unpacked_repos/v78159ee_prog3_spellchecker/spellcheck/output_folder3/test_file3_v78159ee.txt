@@ -1,0 +1,9 @@
+v78159ee 
+ Formatting ################### 
+ Number of upper case letters changed: 3
+ NUmber of punctuations removed: 15
+ Number of numbers removed: 6
+ Spellchecking ################### 
+ Number of words: 67
+ Number of correct words: 64
+ Number of incorrect words: 3

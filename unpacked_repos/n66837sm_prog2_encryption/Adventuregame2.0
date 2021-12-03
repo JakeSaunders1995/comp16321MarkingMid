@@ -1,0 +1,19 @@
+# My Test Based Adventure Game
+
+import time, os
+print("Loading. . . .")
+time.sleep(2)
+
+print("Hello! Welcome to my game "+ os.getlogin() +"\nPlease choose a character: ")
+
+characterList = ["Knight", "Warrior", "Wizard"]
+#added a while loop to print out characterList
+i=0
+while i< len(characterList):
+	print(str(i+1) + "." + characterList[i])
+	i+=1
+
+character = int(input("Type in your character number: "))
+selectedcharacter = characterList[character -1]
+
+print("You chose: " + selectedcharacter)

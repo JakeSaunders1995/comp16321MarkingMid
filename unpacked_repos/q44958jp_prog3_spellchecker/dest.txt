@@ -1,0 +1,9 @@
+q44958jp
+Formatting ###################
+Number of upper case words transformed: 4
+Number of punctuations removed: 7
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 44
+Number of correct words: 43
+Number of incorrect words: 1

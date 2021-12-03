@@ -1,0 +1,9 @@
+p98424rp
+Formatting ###################
+Number of upper case words transformed: 0
+Number of punctuations removed: 0
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words in file: 54
+Number of correct words in file: 54
+Number of incorrect words in file: 0

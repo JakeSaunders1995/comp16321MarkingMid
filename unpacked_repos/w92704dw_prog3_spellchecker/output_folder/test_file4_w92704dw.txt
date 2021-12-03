@@ -1,0 +1,9 @@
+w92704dw
+Formatting ###################
+Number of upper case letters changed: 4
+Number of punctuations removed: 8
+Number of numbers removed: 3
+Spellchecking ###################
+Number of words in file: 65
+Number of correct words in file: 61
+Number of incorrect words in file: 4

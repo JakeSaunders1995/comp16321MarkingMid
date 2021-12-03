@@ -1,0 +1,9 @@
+Y41988AL 
+Formatting ################# 
+Number of upper case letters changed: 4
+Number of punctuations removed: 5
+Number of numbers removed: 3
+SpellChecking ###############
+Number of words: 54
+Number of correct words: 52
+Number of incorrect words: 2
