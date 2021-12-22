@@ -1,6 +1,6 @@
 e18770as
 Formating ###################
-Number of upper case words changed: 2
+Number of upper case words changed: 3
 Number of punctuations removed: 2
 Number of numbers removed: 3
 Spellchecking ###################

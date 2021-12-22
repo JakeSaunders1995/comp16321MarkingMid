@@ -1,7 +1,7 @@
 import sys,os
 arguments = sys.argv
 
-punc = ".?!,:;-[]\{}()`\'\"@#~<>£$%^&*"
+punc = ".?!,:;-–—[]\{}()`\'\"~<>£$%^&*"
 
 with open(arguments[1]) as wordFile:
     words = wordFile.read()
@@ -15,6 +15,8 @@ for file in os.listdir(arguments[2]):
     with open(source) as wrongFile:
         checkText = wrongFile.read()
     pCount = 0
+    pCount += checkText.count(". . .")
+    checkText = checkText.replace(". . .", "")
     for character in punc:
         pCount += checkText.count(character)
         checkText = checkText.replace(character, "")
@@ -25,8 +27,9 @@ for file in os.listdir(arguments[2]):
     checkTextSplit = checkText.split()
     lCount = 0
     for word in checkTextSplit:
-        if word != word.lower():
-            lCount += 1
+        for character in word:
+            if character != character.lower():
+                lCount += 1
     checkText = checkText.lower().split()
     numberOfWords = len(checkText)
     correctWords = 0

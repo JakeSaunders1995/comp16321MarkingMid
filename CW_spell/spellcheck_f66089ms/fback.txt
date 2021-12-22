@@ -1,0 +1,11 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/spellcheck_f66089ms/./spellcheck_f66089ms.py", line 48, in <module>
+    x = re.sub("[0-9]","",in_put)
+  File "/usr/lib/python3.9/re.py", line 210, in sub
+    return _compile(pattern, flags).sub(repl, string, count)
+TypeError: expected string or bytes-like object
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

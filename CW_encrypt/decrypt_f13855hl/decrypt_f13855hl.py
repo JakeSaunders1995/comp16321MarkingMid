@@ -14,7 +14,7 @@ def hexmain(hex):
 
 # Caesar Cipher +3
 def caesarcipher(letter):
-    caesardecryted = ord(letter) - 3
+    caesardecryted = (((ord(letter) - 3)-97)% 26)+97
     return chr(caesardecryted)
 
 def caesarmain(caesar):    
@@ -29,7 +29,7 @@ def caesarmain(caesar):
     temp = filename.split(".")
     output_file_name = temp[0] + "_" + "f13855hl" + "." + temp[1]
     outputFile = open(outputfolderpath + "/" + output_file_name, "w")
-    outputFile.write(decrypted_string)
+    outputFile.write(decrypted_string[0:len(decrypted_string)-1])
     outputFile.close()
 # caesarmain()
 

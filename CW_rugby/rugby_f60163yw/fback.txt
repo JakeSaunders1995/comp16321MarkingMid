@@ -1,0 +1,13 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/rugby_f60163yw/./rugby_f60163yw.py", line 39, in <module>
+    main(item, name)
+  File "***Removed due to privacy***/rugby_f60163yw/./rugby_f60163yw.py", line 29, in main
+    score1, score2 = comput_score(input)
+  File "***Removed due to privacy***/rugby_f60163yw/./rugby_f60163yw.py", line 26, in comput_score
+    return scores['1'], scores['2']
+KeyError: '1'
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

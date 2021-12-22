@@ -1,0 +1,9 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/rugby_d95341zw/./rugby_d95341zw.py", line 70, in <module>
+    result = open(d, "w")
+FileNotFoundError: [Errno 2] No such file or directory: '_d95341zw./results_rugby/test_file1_d95341zw.txt'
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

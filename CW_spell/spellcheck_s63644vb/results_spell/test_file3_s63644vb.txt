@@ -1,7 +1,7 @@
 s63644vb
 Formatting ###################
-Number of upper case letters changed: 3
-Number of punctuations removed: 4
+Number of upper case letters changed: 0
+Number of punctuations removed: 0
 Number of numbers removed: 0
 Spellchecking ###################
 Number of words: 27

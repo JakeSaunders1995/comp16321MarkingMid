@@ -1,4 +1,5 @@
 import argparse,os,re
+punctuationlist = [".","?","!",",",":",";","‐","—","(",")","{","}","[","]","'",'"']
 parser = argparse.ArgumentParser(description="checks for spelling mistakes")
 parser.add_argument("dictionary", help="Input file path of dictionary")
 parser.add_argument("input", help="Input file path")
@@ -6,7 +7,7 @@ parser.add_argument("save",help="Output file path")
 folder = parser.parse_args()
 dictionary = open(folder.dictionary,"r")
 dictionarywords = dictionary.readlines()
-for filename in os.listdir(input): 
+for filename in os.listdir(folder.input): 
     if filename.endswith(".txt"):
         inputFile = open(folder.input + filename,"r")
         outputFile = open(folder.save + filename[0:-4] + "_m31181jg" + ".txt","w") 
@@ -20,19 +21,29 @@ for filename in os.listdir(input):
         correct=0
         incorrect=0
         formattedwords= []
+        skip = 0
         while words:
             word = words.pop()
             formattedword= ""
             for i in range(0,len(word)):
-                if ord(word[i]) >= 65 and ord(word[i]) <= 90:
-                    capital += 1
-                    formattedword = formattedword + word[i].lower()
-                elif ord(word[i]) >= 48 and ord(word[i]) <= 57:
-                    numbers += 1
-                elif ord(word[i]) >= 97 and ord(word[i]) <= 122:
-                    formattedword = formattedword + word[i]
+                if skip > 0:
+                    skip -= 1
                 else:
-                    punctuation += 1
+                    if ord(word[i]) >= 65 and ord(word[i]) <= 90:
+                        capital += 1
+                        formattedword = formattedword + word[i].lower()
+                    elif ord(word[i]) >= 48 and ord(word[i]) <= 57:
+                        numbers += 1
+                    elif ord(word[i]) >= 97 and ord(word[i]) <= 122:
+                        formattedword = formattedword + word[i]
+                    elif word[i] in punctuationlist:
+                        punctuation += 1
+                        if word[i] != "'" and formattedword != "":
+                            formattedwords.append(formattedword)
+                            formattedword = ""
+                        if i + 2 < len(word):
+                            if word[i]== word[i+1] == word[i+2] == ".":
+                                skip = 2
             if formattedword != "":
                 formattedwords.append(formattedword)
         outputFile.write("Number of upper case words transformed: " + str(capital) + "\n")

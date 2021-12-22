@@ -1,0 +1,13 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_y70582kd/./decrypt_y70582kd.py", line 88, in <module>
+    list2.append(detMetod(text))
+  File "***Removed due to privacy***/decrypt_y70582kd/./decrypt_y70582kd.py", line 65, in detMetod
+    return morse(txt)
+  File "***Removed due to privacy***/decrypt_y70582kd/./decrypt_y70582kd.py", line 53, in morse
+    result += dict.get(i)
+TypeError: can only concatenate str (not "NoneType") to str
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

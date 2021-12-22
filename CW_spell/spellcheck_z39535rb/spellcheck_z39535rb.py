@@ -30,7 +30,7 @@ with open(checkFilePath) as wordList:
 # actual functionality
 for file in fileList:
     with open(inputPath + "/" + file) as f:
-        text = f.readline()
+        text = f.read()
         textSplit = text.split()
 
         upperCase = 0
@@ -49,7 +49,7 @@ for file in fileList:
                 if 65 <= ord(char) <= 90:
                     upperCase += 1
                     final += chr(ord(char) + 32)
-                elif 33 <= ord(char) <= 47 or 58 <= ord(char) <= 64 or 91 <= ord(char) <= 96 or 123 <= ord(char) <= 126:
+                elif 33 <= ord(char) <= 34 or 39 <= ord(char) <= 41 or 44 <= ord(char) <= 46 or 58 <= ord(char) <= 59 or ord(char) == 63 or ord(char) == 91 or ord(char) == 93 or ord(char) == 123 or ord(char) == 125:
                     punctuation += 1
                     final += ''
                 elif 48 <= ord(char) <= 57:
@@ -70,7 +70,7 @@ for file in fileList:
     with open(outputPath + '/' + file[:-4] + '_z39535rb.txt', 'w') as s:
         s.write('z39535rb' +
                 '\nFormatting ###################' +
-                '\nNumber of upper case words changed: ' + str(upperCase) +
+                '\nNumber of upper case letters changed: ' + str(upperCase) +
                 '\nNumber of punctuations removed:' + str(punctuation) +
                 '\nNumber of numbers removed: ' + str(numbers) +
                 '\nSpellchecking ###################' +

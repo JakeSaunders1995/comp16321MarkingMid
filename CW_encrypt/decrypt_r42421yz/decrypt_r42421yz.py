@@ -125,16 +125,20 @@ for file in inputfile:
 			caesarcode = re.findall('(?<=:).*$',contentofinput)
 			print(caesarcode)
 			cipherText = ''.join(str(i) for i in caesarcode)
-			plainText = str()
-			cipherTextPosition = 0
-			while cipherTextPosition < len(cipherText):
-				cipherTextChar = cipherText[cipherTextPosition]
-				ASCIIValue = ord(cipherTextChar)
-				ASCIIValue = ASCIIValue - 3
-				plainText = plainText + chr(ASCIIValue)
-				cipherTextPosition = cipherTextPosition + 1
-			print(plainText)
-			fp.write(plainText)
+			print(cipherText)
+
+			
+			list1 = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z',' ']
+			list2 = ['D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','A','B','C','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','a','b','c',' ']
+			
+			resultofcipher = str()
+			for i in range(len(cipherText)):
+				
+					for j in range(0,len(list1)):
+						if cipherText[i] == list2[j]:
+							print(list1[j],end = '')
+		
+			fp.write(resultofcipher)
 			fp.close
 
 

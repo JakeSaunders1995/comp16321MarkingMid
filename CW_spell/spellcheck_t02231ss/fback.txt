@@ -1,0 +1,11 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/spellcheck_t02231ss/./spellcheck_t02231ss.py", line 25, in <module>
+    get_data = single_file.read()
+  File "/usr/lib/python3.9/encodings/cp1252.py", line 23, in decode
+    return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+UnicodeDecodeError: 'charmap' codec can't decode byte 0x9d in position 19: character maps to <undefined>
+
+Output files were found however no output file was found for test_file 3 with the correct name format

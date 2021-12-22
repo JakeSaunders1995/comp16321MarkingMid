@@ -1,0 +1,9 @@
+y45718mk
+Formatting ###################
+Number of upper case letters changed: 0
+Number of punctuations removed: 0
+Number of numbers removed: 5
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 16
+Number of incorrect words: 1

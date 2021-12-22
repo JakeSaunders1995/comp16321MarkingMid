@@ -1,9 +1,0 @@
-b88575jh
-Formatting ###################
-Number of upper case words transformed: 6
-Number of punctuations removed: 12
-Number of numbers removed: 3
-Spellchecking ###################
-Number of words in file: 18
-Number of correct words in file: 18
-Number of incorrect words in file: 0

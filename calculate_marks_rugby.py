@@ -23,8 +23,6 @@ def reset_globals():
     file_2_mark = 0
     file_3_mark = 0
 
-
-
 # Mark the student via reading their file and comparing with correct marks
 def mark_student(student):
     global file_1_mark

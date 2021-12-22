@@ -23,7 +23,7 @@ def format(inText):
 			if(inText[i] in string.digits):
 				inText = (inText[0:i] + inText[i+1:])
 				nums += 1
-			elif(inText[i] in ".?!,:;-()[]'—`…" or inText[i] in '"'):
+			elif(inText[i] in ".?!,:;-()[]'—`…" or inText[i] in ('"',"...", ". . .")):
 				inText = (inText[0:i] + inText[i+1:])
 				puncs += 1
 			elif(inText[i] != inText[i].lower()):

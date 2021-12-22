@@ -1,0 +1,9 @@
+Output for test_file 1 was incorrect
+Case count was incorrect for test_file1
+Word count was incorrect for test_file1
+Correct word count was incorrect for test_file1
+Incorrect word count was incorrect for test_file1
+Output for test_file 2 was incorrect
+Case count was incorrect for test_file2
+Output for test_file 3 was incorrect
+Case count was incorrect for test_file3

@@ -1,9 +1,0 @@
-p56273gd 
-Formatting  ################### 
-Number of upper case letters changed: 3
-Number of punctuations removed: 0
-Number of numbers removed: 0
-Spellchecking  ################### 
-Number of words: 17
-Number of correct words: 17
-Number of incorrect words: 0

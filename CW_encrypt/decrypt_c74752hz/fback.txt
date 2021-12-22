@@ -1,0 +1,12 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_c74752hz/./decrypt_c74752hz.py", line 75, in <module>
+    decryptedtext = morse(ciphertext)
+  File "***Removed due to privacy***/decrypt_c74752hz/./decrypt_c74752hz.py", line 39, in morse
+    string += morseList.get(code).lower()
+AttributeError: 'NoneType' object has no attribute 'lower'
+
+Output for test_file 2 was incorrect
+Output files were found however no output file was found for test_file 3 with the correct name format

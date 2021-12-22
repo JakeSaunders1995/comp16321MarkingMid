@@ -1,0 +1,9 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_q83438yw/./decrypt_q83438yw.py", line 54, in <module>
+    value2 = str(dictionary[item])
+KeyError: '.--.'
+
+Output for test_file 3 was incorrect

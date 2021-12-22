@@ -1,0 +1,4 @@
+Output for test_file 2 was incorrect
+Punctuation count was incorrect for test_file2
+Correct word count was incorrect for test_file2
+Incorrect word count was incorrect for test_file2

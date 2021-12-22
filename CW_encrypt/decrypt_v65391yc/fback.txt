@@ -1,0 +1,11 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_v65391yc/./decrypt_v65391yc.py", line 97, in <module>
+    fileWrite(morse(startChange(content)), outputPath)
+  File "***Removed due to privacy***/decrypt_v65391yc/./decrypt_v65391yc.py", line 58, in morse
+    character = morseDict[item]
+KeyError: '.--.'
+
+Output files were found however no output file was found for test_file 3 with the correct name format

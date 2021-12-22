@@ -1,2331 +1,1788 @@
-Student_number,hex_mark,caesar_mark,Morse_mark,Feedback,,
-m65577ha,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-p49263ca,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w25478ia,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j48751oa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h26115aa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p91607ma,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-p06411ua,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m55182va,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h64203za,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-t50885aa,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-b91517ea,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y59276ma,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p55643na,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j29815fa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p80249ra,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s55264aa,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-p17540oa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r88993ia,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m65670fa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j09180ga,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-d03211aa,0,1,1,"Incorrect hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-f63279ma,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j14088na,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h70565na,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y69004la,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Incorrect morse decryption for file 3
-",0,0
-y59426ra,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-p93899aa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s03884aa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b48871sa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m01964ua,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e37076ka,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r50263ma,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f54617sa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s58860aa,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-c81776oa,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-x74657fa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p01679ma,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e17646fa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f01643ka,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-v80015aa,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-s09672ba,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w65214ka,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-m46198sa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q26752aa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n79777aa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s50548ma,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s68250ma,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m57983ma,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p15748aa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-a08872aa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u95206ma,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-g78896na,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-e55646sa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j49970fa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s74996sa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h20233aa,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m17832wa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r22997aa,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-b69141na,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-y96758ma,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y78202oa,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q05506bb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w73862jb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-a43986rb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f05815rb,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j16919mb,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-z39535rb,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-No file output or incorrect output format for morse file
-",33.3333333333333,1.66666666666667
-z89079mb,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-w75724sb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v36373bb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-v31903mb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r89835eb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-n61655sb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q86352bb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e78508hb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u89014ab,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s29576tb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h19953mb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f25035sb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s63644vb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q53226rb,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-g21434rb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p44797jb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-b64065ab,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-j90095jb,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-f92301jb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p80873ab,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h08963ob,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-c20818hb,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v41567lb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-k78886jb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c28644ab,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h00203pb,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j96409sb,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-m18453ab,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y77372db,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-a11694mc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h15879ac,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r56325cc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y36340hc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q57044nc,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-h54023kc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j06724tc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-v14799cc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u60770mc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g71830mc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-z16075sc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v65391yc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-a65914zc,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-n25359ec,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-r83187jc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-g86908rc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b95211hc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p50391tc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q18662ac,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-a07230cc,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-e11226oc,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-h06023jc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s13506jc,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-h89565jc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x43615kc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-w21706bc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r25329lc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c42786tc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d50341jc,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p50792sd,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-g45512id,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w48678cd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c87452cd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x33731ed,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b12745nd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e86816fd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m59511md,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q78608sd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b39141od,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-k14454hd,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-n62189sd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p49111md,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j86153jd,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-j08328hd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h10505jd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f06903rd,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-k88166nd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j23676kd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h59035dd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-d62825cd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y70582kd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k74082yd,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-d72499pd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Incorrect morse decryption for file 3
-",0,0
-j14769hd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-a63140nd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p56273gd,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-u25144jd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r77503bd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h49151gd,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p72470id,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t56091yd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x63917cd,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-v78643ld,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-k40092ae,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-w60078be,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u18436re,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n38595ae,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x43881he,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-n95835ce,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v78159ee,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q78216ae,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-d52553je,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-u68780be,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-j98415kf,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u61944rf,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-j95271zf,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-s11642lf,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-u35610df,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h96407tf,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q96128lf,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n95301jf,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e64848xf,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g21898tg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e41002vg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p56781ng,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-n86739dg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w16910dg,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-d66835dg,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j80841pg,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j56995jg,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p23525lg,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-v91365dg,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-y42270sg,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-s13496vg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m19364tg,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-z83313gg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x46833ng,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m17324sg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m25334kg,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-u34592sg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-z12203pg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h01895cg,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m31181jg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p52048kg,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-k75018lg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f21939kg,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-f33805pg,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b88575jh,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-s80648sh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y99614zh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s78014sh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h52171rh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-v30867dh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n05919ah,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n58949ah,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p48652gh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c01724bh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y72828ah,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-e58876ch,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-s79104mh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m42552rh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u08120fh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x62165ih,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j13280mh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q90172mh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n91491mh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j80560hh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j94115rh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d42941ph,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y62498rh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p53237kh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b88861sh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m32784sh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h86959th,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u59286dh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k23074jh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n39349ch,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w58006bh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j73849yh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u18382zh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y02478jh,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-g70580jh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u82766jh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m50747jh,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-s89582ph,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e71568qh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w24218sh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-a24872zh,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-c48306ah,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-h32647nh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-n80569fh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p31278rh,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q00848wh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c60952ti,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h06559hi,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b42667ni,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n66033ai,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-z70469ai,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r85193di,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g33966si,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-d71343si,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-r61875lj,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e00336tj,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k20826aj,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j39317jj,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m42677js,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r27413tj,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u00074aj,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q22650aj,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-g15612dj,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t28107tj,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-e86238yj,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v12433ak,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-v04109yk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p75341vk,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m84249pk,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-w64810ak,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y45718mk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u38012ek,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-f37609ak,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-d05847mk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m85559mk,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j34330vk,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-z35437sk,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-k77872uk,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j33990dk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h04151jk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h37701dk,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-n37169dk,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-a98714zk,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-h45007bk,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-t56563bk,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y44694jk,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-m73648ak,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j52026pk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e22628ak,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Incorrect morse decryption for file 3
-",0,0
-p70810yk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-c93472yk,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p29365al,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-a98056wl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q17766yl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-z49927gl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f13855hl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q94072jl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y40034sl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k73092al,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y66466tl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y41988al,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d30839jl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j13667wl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u75904yl,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-p68686gl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w15122jl,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-w80290jl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j45220sl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p07229sl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g78196wl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f93937xl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x12691yl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e23170zl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-c00182zl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j36001zl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u60328el,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-h60953dl,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-a60628wl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r00979hl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r86515xl,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-s93700yl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x36049yl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j29115zl,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r21857jl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p67189ml,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j59004hl,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c29824zl,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-w25464il,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-d47007el,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j81448im,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r07539ym,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b26193dm,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-n50699mm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k47680dm,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-n07219hm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j90992mm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p37429am,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m03777am,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j79871am,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j78134fm,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-m08320mm,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-t30023mm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k92160ym,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s23522ym,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e80626nm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b11903lm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t74769sm,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h56505hm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b05899em,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k98956fm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x32001nm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n66837sm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k42524cm,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h34091sm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e88144wm,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-p37736sm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b78373dm,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p94302hm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m92824cm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n03227rm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d00499dm,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d20477sn,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f15107sn,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q89254rn,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h63651bn,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-n72421tn,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-y55928xn,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q10556rn,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-z34983bo,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t56225ro,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m38874oo,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q77644po,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-z74185ho,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-h13549so,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h19243yp,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y48410ap,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h18609dp,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s42704jp,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f49277np,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g39786dp,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j81034dp,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h18603tp,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p86963sp,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x09137dp,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e40494op,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h61781jp,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q44958jp,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-j96158ap,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-v55941np,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-z90677pp,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-k96010wp,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p72426yp,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r56677rp,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-p98424rp,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p35799ap,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q50676ep,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v35417sp,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-z80559hq,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h50141yq,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f38903hq,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p44469aq,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v63881oq,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g77134dr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x83363dr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j11865sr,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x62967rr,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u63378mr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u43534sr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k63434dr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f98689dr,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j06597jr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u81076nr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t92001cr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e99236vr,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t02231ss,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-e18770as,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-s62508as,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v21023jh,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h64411rs,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-x81829rs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v26161ns,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-m78355ls,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y65306ws,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e40896us,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g75342ms,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-z70503ns,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-a86442gs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m43369as,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j17768ms,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-h25471ds,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f66089ms,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-j54137ss,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-k01756ws,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-v96969ss,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m73289ls,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-b89545ss,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-x57595ts,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e41206gs,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m83653ns,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-z54873hs,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y47496ms,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-b98919gs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q08386js,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-y48052as,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y44780cs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q16332rs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w27888ms,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p73848hs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j91917bs,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-g62520js,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-w13634ps,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-x47813as,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f18903ls,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-f57695ks,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-q02710ts,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u54258as,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r94627as,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-d02513ms,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v97159is,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y57776rs,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y55496ks,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p94886ms,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-a81060bs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e35918rs,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x97151hs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-r82969js,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-k38730rs,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s56124at,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p40515mt,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c38534kt,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y10240dt,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-b87145mt,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-g28708at,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e54842zt,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u49728rt,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-s65422mt,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-c62354yt,1,0,1,"Correct hex decryption for file 1
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-y60150st,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d03963st,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-k71182kt,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p17128xt,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-r46739lt,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-j13909ht,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w90012gt,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-x28381ot,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-c43480ct,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Incorrect morse decryption for file 3
-",0,0
-y67506st,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j24834et,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Incorrect morse decryption for file 3
-",0,0
-p34378lt,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e58068tt,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-e58690mu,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-c70846fu,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n54133hu,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-p62312tu,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w39362nv,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m31234gv,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j94732av,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h76117sv,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h78811cv,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-b63095jv,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-z13325aw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x48913aw,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-g75462fw,1,1,0,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Incorrect morse decryption for file 3
-",66.6666666666667,3.33333333333333
-f85709jw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-t09329lw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-n91131bw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m56135cw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-h48741ew,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x67955hw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m60493kw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-g91274qw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x72017ww,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h85345ww,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v74211xw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f60163yw,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-q83438yw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Incorrect morse decryption for file 3
-",0,0
-j98107zw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d95341zw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-e31258zw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-n20851ew,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n35081bw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-w92704dw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r27125bw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-y35654gw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p17498jw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-y28244lw,1,0,0,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",33.3333333333333,1.66666666666667
-u24264cw,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p96457dw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q36172hw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v08417jw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g62512ww,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-v54835xw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-a38752yw,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t17981qx,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-j72446cx,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-v08387yx,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p00331rx,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-c29038sx,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-x69739wx,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-f53919qy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-q66122my,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j29403qy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v35117sy,0,0,0,"Incorrect hex decryption for file 1
-Incorrect caesar decryption for file 2
-Incorrect morse decryption for file 3
-",0,0
-z03463sy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s94292yy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p33067ay,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d88719ry,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s86124sy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s50172ey,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v79907sy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g58440zy,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f11711jy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h39449sy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-p61761ay,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-h72507by,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-d07769jy,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m09857ly,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p99614sy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n96249ty,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-z53195cy,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-v94579az,0,0,1,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-Correct morse decryption for file 3
-",33.3333333333333,1.66666666666667
-b16225mz,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-f77541nz,1,0,1,"Correct hex decryption for file 1
-Incorrect caesar decryption for file 2
-Correct morse decryption for file 3
-",66.6666666666667,3.33333333333333
-m46757sz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-t28063tz,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-p76722cz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-j20384jz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-s78866kz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-m26025tz,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-r42421yz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-n20773yz,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-u71922pz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g60486zz,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-b03791zc,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-g92198jz,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-m36036zz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-c74752hz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-u50490yz,0,0,0,"No file output or incorrect output format for hex file
-No file output or incorrect output format for caesar file
-No file output or incorrect output format for morse file
-",0,0
-k25612yz,1,1,1,"Correct hex decryption for file 1
-Correct caesar decryption for file 2
-Correct morse decryption for file 3
-",100,5
-,,,,,,
-Average,0.47766323024055,0.393470790378007,0.429553264604811,,43.3562428407789,2.16781214203895
+Student_number,file_1_mark,file_2_mark,file_3_mark,Feedback
+a07230cc,0,0,0,"Output for test_file 1 was incorrect
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+a08872aa,1,1,1,
+a11694mc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+a24872zh,1,1,0,"Output for test_file 3 was incorrect
+"
+a38752yw,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+a43986rb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+a60628wl,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+a63140nd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_a63140nd/./decrypt_a63140nd.py"", line 4, in <module>
+     file = open(fname, ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: '***Removed due to privacy***/decrypt_a63140nd/midterm_files/Example_inputs/Example_inputs_program2/test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+a65914zc,1,0,1,"Output for test_file 2 was incorrect
+"
+a81060bs,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_a81060bs/./decrypt_a81060bs.py"", line 16, in <module>
+     f = open(sys.argv[1], 'r')
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+a86442gs,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+a98056wl,1,1,1,
+a98714zk,1,0,1,"Output for test_file 2 was incorrect
+"
+b03791zc,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_b03791zc/./decrypt_b03791zc.py"", line 17, in <module>
+     Output = open(filepath, ""w"")
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encrypt/./results_encrypt/test_file1_b03791zc'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+b05899em,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+b11903lm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+b12745nd,1,1,1,
+b16225mz,1,1,1,
+b26193dm,1,1,0,"Output for test_file 3 was incorrect
+"
+b39141od,1,1,1,
+b42667ni,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+b48871sa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+b63095jv,1,1,1,
+b64065ab,1,1,1,
+b69141na,1,1,1,
+b78373dm,1,1,1,
+b87145mt,1,1,1,
+b88575jh,1,1,0,"Output for test_file 3 was incorrect
+"
+b88861sh,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_b88861sh/./decrypt_b88861sh.py"", line 59, in <module>
+     f = open(input_filepath, 'r', encoding='utf-8')
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+b89545ss,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/decrypt_b89545ss/./decrypt_b89545ss.py"", line 31
+     for i in range(0, len(hexaString), 2):
+ IndentationError: unexpected indent
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+b91517ea,1,1,1,
+b95211hc,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_b95211hc/./decrypt_b95211hc.py"", line 59, in <module>
+     os.mkdir(outputDir)
+ FileExistsError: [Errno 17] File exists: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+b98919gs,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/decrypt_b98919gs/./decrypt_b98919gs.py"", line 39
+     '..--..': '?'. '-..-.': '/'
+                    ^
+ SyntaxError: invalid syntax
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+c00182zl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+c01724bh,1,1,1,
+c20818hb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+c28644ab,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+c29038sx,1,1,1,
+c29824zl,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+c38534kt,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_c38534kt/./decrypt_c38534kt.py"", line 5, in <module>
+     with open (walk_dir, ""r"") as f:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+c42786tc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+c43480ct,1,1,0,"Output for test_file 3 was incorrect
+"
+c48306ah,1,1,0,"Output for test_file 3 was incorrect
+"
+c60952ti,1,1,1,
+c62354yt,1,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_c62354yt/./decrypt_c62354yt.py"", line 53, in <module>
+     detext=str(detext)+caec[l+3]
+ IndexError: string index out of range
+ 
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+c70846fu,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_c70846fu/./decrypt_c70846fu.py"", line 31, in <module>
+     SplitText = text_decrypt.split("":"")
+ AttributeError: 'list' object has no attribute 'split'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+c74752hz,1,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_c74752hz/./decrypt_c74752hz.py"", line 75, in <module>
+     decryptedtext = morse(ciphertext)
+   File ""***Removed due to privacy***/decrypt_c74752hz/./decrypt_c74752hz.py"", line 39, in morse
+     string += morseList.get(code).lower()
+ AttributeError: 'NoneType' object has no attribute 'lower'
+ 
+ Output for test_file 2 was incorrect
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+c81776oa,1,0,1,"Output for test_file 2 was incorrect
+"
+c87452cd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_c87452cd/./decrypt_c87452cd.py"", line 9, in <module>
+     inputStream = open(inputPath, ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+c93472yk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_c93472yk/./decrypt_c93472yk.py"", line 227, in <module>
+     mainP(inP, output1)
+   File ""***Removed due to privacy***/decrypt_c93472yk/./decrypt_c93472yk.py"", line 166, in mainP
+     out(ans, output1)
+   File ""***Removed due to privacy***/decrypt_c93472yk/./decrypt_c93472yk.py"", line 118, in out
+     with open(output1,'w') as f:
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encryptrypt/test_file1_c93472yk.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+d00499dm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_d00499dm/./decrypt_d00499dm.py"", line 24, in <module>
+     while ciphertextChar != alphabet[alphabetposition]:
+ IndexError: string index out of range
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+d02513ms,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+d03211aa,0,1,1,"Output for test_file 1 was incorrect
+"
+d03963st,1,1,1,
+d05847mk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_d05847mk/./decrypt_d05847mk.py"", line 119, in <module>
+     output_hex()
+   File ""***Removed due to privacy***/decrypt_d05847mk/./decrypt_d05847mk.py"", line 90, in output_hex
+     os.chdir(outputpath)
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+d07769jy,1,1,1,
+d20477sn,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+d30839jl,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+d42941ph,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+d47007el,1,1,0,"Output for test_file 3 was incorrect
+"
+d50341jc,1,1,1,
+d52553je,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+d62825cd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_d62825cd/./decrypt_d62825cd.py"", line 3, in <module>
+     test = open(sys.argv[1] , ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+d66835dg,1,0,1,"Output for test_file 2 was incorrect
+"
+d71343si,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+d72499pd,1,1,0,"Output for test_file 3 was incorrect
+"
+d88719ry,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+d95341zw,1,1,1,
+e00336tj,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+e11226oc,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+e17646fa,1,1,1,
+e18770as,1,1,1,
+e22628ak,1,1,0,"Output for test_file 3 was incorrect
+"
+e23170zl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+e31258zw,1,1,1,
+e35918rs,1,1,1,
+e37076ka,1,1,1,
+e40494op,1,1,1,
+e40896us,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+e41002vg,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_e41002vg/./decrypt_e41002vg.py"", line 15, in <module>
+     f = open(to_open, ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt\\test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+e41206gs,1,1,1,
+e54842zt,1,1,1,
+e55646sa,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/decrypt_e55646sa/./decrypt_e55646sa.py"", line 108
+     '/': ' '
+        ^
+ SyntaxError: invalid syntax
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+e58068tt,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+e58690mu,1,1,1,
+e58876ch,1,0,1,"Output for test_file 2 was incorrect
+"
+e64848xf,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+e71568qh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+e78508hb,1,1,1,
+e80626nm,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+e86238yj,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_e86238yj/./decrypt_e86238yj.py"", line 9, in <module>
+     os.mkdir(args.output_path)
+ FileExistsError: [Errno 17] File exists: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+e86816fd,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+e88144wm,1,1,1,
+e99236vr,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+f01643ka,1,0,1,"Output for test_file 2 was incorrect
+"
+f05815rb,1,1,0,"Output for test_file 3 was incorrect
+"
+f06903rd,1,1,0,"Output for test_file 3 was incorrect
+"
+f11711jy,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_f11711jy/./decrypt_f11711jy.py"", line 7, in <module>
+     with open(""test_file3.txt"") as file:
+ FileNotFoundError: [Errno 2] No such file or directory: 'test_file3.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+f13855hl,1,0,1,"Output for test_file 2 was incorrect
+"
+f15107sn,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_f15107sn/./decrypt_f15107sn.py"", line 83, in <module>
+     enc_txt= read_file(args.in_file)
+   File ""***Removed due to privacy***/decrypt_f15107sn/./decrypt_f15107sn.py"", line 4, in read_file
+     in_f= open(in_file,'r')
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+f18903ls,1,1,1,
+f21939kg,1,1,1,
+f25035sb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+f33805pg,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+f37609ak,1,1,1,
+f38903hq,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+f49277np,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_f49277np/./decrypt_f49277np.py"", line 54, in <module>
+     file = open(str(path)+x, ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+f53919qy,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_f53919qy/./decrypt_f53919qy.py"", line 87, in <module>
+     with open(input_file_path, 'r') as f:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+f54617sa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+f57695ks,1,1,1,
+f60163yw,0,0,0,"Output for test_file 1 was incorrect
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+f63279ma,1,1,1,
+f66089ms,0,0,0,"Output for test_file 1 was incorrect
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+f77541nz,1,0,1,"Output for test_file 2 was incorrect
+"
+f85709jw,1,1,1,
+f92301jb,1,1,1,
+f93937xl,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_f93937xl/./decrypt_f93937xl.py"", line 73, in <module>
+     answer3 += MorseList[item].lower()
+ KeyError: '.--.'
+ 
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+f98689dr,1,1,1,
+g15612dj,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+g21434rb,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_g21434rb/./decrypt_g21434rb.py"", line 77, in <module>
+     plainText = MorseDecrypt(cipherText)
+   File ""***Removed due to privacy***/decrypt_g21434rb/./decrypt_g21434rb.py"", line 41, in MorseDecrypt
+     plain += MorseList.get(w).lower()
+ AttributeError: 'NoneType' object has no attribute 'lower'
+ 
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+g21898tg,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+g28708at,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_g28708at/./decrypt_g28708at.py"", line 21, in <module>
+     with open(file_path, 'r') as f:
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt/test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+g33966si,1,1,0,"Output for test_file 3 was incorrect
+"
+g39786dp,1,0,1,"Output for test_file 2 was incorrect
+"
+g45512id,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+g58440zy,1,1,1,
+g60486zz,1,1,1,
+g62512ww,1,1,1,
+g62520js,1,1,1,
+g70580jh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+g71830mc,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+g75342ms,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+g75462fw,1,1,0,"Output for test_file 3 was incorrect
+"
+g77134dr,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+g78196wl,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_g78196wl/./decrypt_g78196wl.py"", line 111, in <module>
+     f=open(o,'w')
+ FileNotFoundError: [Errno 2] No such file or directory: '_g78196wl./results_encrypt/test_file1_g78196wl.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+g78896na,1,1,0,"Output for test_file 3 was incorrect
+"
+g86908rc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+g91274qw,1,1,1,
+g92198jz,1,1,1,
+h00203pb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h01895cg,1,1,1,
+h04151jk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_h04151jk/./decrypt_h04151jk.py"", line 99, in <module>
+     fileOut = open(outFolder + fileOutName, ""w"")
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encryptiles_encrypt/test_file1_h04151jk.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h06023jc,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h06559hi,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h08963ob,1,1,1,
+h10505jd,1,1,1,
+h13549so,1,1,1,
+h15879ac,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_h15879ac/./decrypt_h15879ac.py"", line 94, in <module>
+     answer = printAnswer(text)
+ NameError: name 'printAnswer' is not defined
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h18603tp,1,1,1,
+h18609dp,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h19243yp,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h19953mb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h20233aa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h25471ds,1,1,1,
+h26115aa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h32647nh,1,1,1,
+h34091sm,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+h37701dk,1,1,1,
+h39449sy,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h45007bk,1,1,1,
+h48741ew,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h49151gd,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h50141yq,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_h50141yq/./decrypt_h50141yq.py"", line 66, in <module>
+     os.chdir(output_path)
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h52171rh,1,1,1,
+h54023kc,1,1,1,
+h56505hm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h59035dd,1,1,1,
+h60953dl,1,1,0,"Output for test_file 3 was incorrect
+"
+h61781jp,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_h61781jp/./decrypt_h61781jp.py"", line 9, in <module>
+     file = open((sys.argv[1] + filename),""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h63651bn,1,1,1,
+h64203za,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h64411rs,1,1,0,"Output for test_file 3 was incorrect
+"
+h70565na,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+h72507by,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h76117sv,1,1,1,
+h78811cv,1,0,1,"Output for test_file 2 was incorrect
+"
+h85345ww,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_h85345ww/./decrypt_h85345ww.py"", line 28, in <module>
+     ciphertextfile = open(inputpath + filenames[k], ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+h86959th,1,1,1,
+h89565jc,1,1,1,
+h96407tf,1,1,1,
+j06597jr,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j06724tc,1,1,1,
+j08328hd,1,1,1,
+j09180ga,1,1,1,
+j11865sr,1,1,1,
+j13280mh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j13667wl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j13909ht,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j14088na,1,1,1,
+j14769hd,1,1,1,
+j16919mb,1,1,1,
+j17768ms,1,1,0,"Output for test_file 3 was incorrect
+"
+j20384jz,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j23676kd,1,1,1,
+j24834et,1,1,0,"Output for test_file 3 was incorrect
+"
+j29115zl,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+j29403qy,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+j29815fa,1,1,1,
+j33990dk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_j33990dk/./decrypt_j33990dk.py"", line 79, in <module>
+     file = open(sys.argv[1], ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+j34330vk,1,0,1,"Output for test_file 2 was incorrect
+"
+j36001zl,1,1,1,
+j39317jj,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j45220sl,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_j45220sl/./decrypt_j45220sl.py"", line 10, in <module>
+     with open(inputfile, 'r') as FILE:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+j48751oa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j49970fa,1,1,1,
+j52026pk,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j54137ss,1,1,1,
+j56995jg,1,1,1,
+j59004hl,1,1,1,
+j72446cx,1,1,1,
+j73849yh,1,1,1,
+j78134fm,1,1,1,
+j79871am,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+j80560hh,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+j80841pg,1,0,1,"Output for test_file 2 was incorrect
+"
+j81034dp,1,1,1,
+j81448im,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j86153jd,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j90095jb,1,0,1,"Output for test_file 2 was incorrect
+"
+j90992mm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_j90992mm/./decrypt_j90992mm.py"", line 116, in <module>
+     outputFile(file_path, read_text_file(file_path))
+   File ""***Removed due to privacy***/decrypt_j90992mm/./decrypt_j90992mm.py"", line 74, in read_text_file
+     with open(file_path, 'r') as f:
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt\\test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+j91917bs,1,1,1,
+j94115rh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j94732av,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+j95271zf,1,0,1,"Output for test_file 2 was incorrect
+"
+j96158ap,1,0,1,"Output for test_file 2 was incorrect
+"
+j96409sb,1,1,1,
+j98107zw,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/decrypt_j98107zw/./decrypt_j98107zw.py"", line 33
+     
+     ^
+ IndentationError: expected an indented block
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+j98415kf,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+k01756ws,1,1,1,
+k14454hd,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+k20826aj,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+k23074jh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+k25612yz,1,1,1,
+k38730rs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+k40092ae,1,1,1,
+k42524cm,1,1,1,
+k47680dm,1,0,1,"Output for test_file 2 was incorrect
+"
+k63434dr,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_k63434dr/./decrypt_k63434dr.py"", line 45, in <module>
+     inp = open(f""{parsed_args.inputDirectory}\{file}"", 'r')
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt\\test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+k71182kt,1,1,1,
+k73092al,0,0,0,"Submission ran indefinitely and did not finish its execution. 
+ This does not mean the program did not execute it may or may not have produced some files or none
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+k74082yd,1,0,1,"Output for test_file 2 was incorrect
+"
+k75018lg,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_k75018lg/./decrypt_k75018lg.py"", line 49, in <module>
+     file = open(files)
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+k77872uk,1,1,0,"Output for test_file 3 was incorrect
+"
+k78886jb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+k88166nd,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+k92160ym,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+k96010wp,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+k98956fm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+m01964ua,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m01964ua/./decrypt_m01964ua.py"", line 5, in <module>
+     os.mkdir(sys.argv[2]) 
+ FileExistsError: [Errno 17] File exists: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m03777am,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+m08320mm,1,1,0,"Output for test_file 3 was incorrect
+"
+m09857ly,1,1,1,
+m17324sg,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m17324sg/./decrypt_m17324sg.py"", line 41, in <module>
+     determineMethod()
+   File ""***Removed due to privacy***/decrypt_m17324sg/./decrypt_m17324sg.py"", line 8, in determineMethod
+     with open(sys.argv[1], 'r') as file:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m17832wa,1,1,1,
+m18453ab,1,1,1,
+m19364tg,1,1,1,
+m25334kg,1,1,0,"Output for test_file 3 was incorrect
+"
+m26025tz,1,1,1,
+m31181jg,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m31181jg/./decrypt_m31181jg.py"", line 35, in <module>
+     inputFile = open(folder.input + filename,""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m31234gv,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m32784sh,1,1,1,
+m36036zz,1,0,1,"Output for test_file 2 was incorrect
+"
+m38874oo,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+m42552rh,1,1,1,
+m42677js,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  usage: decrypt_m42677js.py [-h] input o
+ decrypt_m42677js.py: error: argument input: can't open './test_files_encrypt': [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m43369as,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+m46198sa,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+m46757sz,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m46757sz/./decrypt_m46757sz.py"", line 76, in <module>
+     main(sys.argv)
+   File ""***Removed due to privacy***/decrypt_m46757sz/./decrypt_m46757sz.py"", line 72, in main
+     decrypted_txt = decrypt(cipher_txt)
+   File ""***Removed due to privacy***/decrypt_m46757sz/./decrypt_m46757sz.py"", line 58, in decrypt
+     r += MorseList[z]
+ KeyError: '.--.'
+ 
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+m50747jh,1,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m50747jh/./decrypt_m50747jh.py"", line 98, in <module>
+     f.write(str(decrypt_morse(new_code1, "" "")))
+   File ""***Removed due to privacy***/decrypt_m50747jh/./decrypt_m50747jh.py"", line 83, in decrypt_morse
+     morse_text = morse_text + morseList.get(text)
+ TypeError: can only concatenate str (not ""NoneType"") to str
+ 
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+m55182va,1,1,1,
+m56135cw,1,1,1,
+m57983ma,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m57983ma/./decrypt_m57983ma.py"", line 9, in <module>
+     sorted_path_list = sorted(os.listdir(input_path))
+ FileNotFoundError: [Errno 2] No such file or directory: '/home/csimage/python_midterm/16321_python_coursework_m57983ma/midterm_files(1)/midterm_files/Example_inputs/Example_inputs_program2'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m59511md,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m59511md/./decrypt_m59511md.py"", line 119, in <module>
+     decryption(file)
+   File ""***Removed due to privacy***/decrypt_m59511md/./decrypt_m59511md.py"", line 55, in decryption
+     os.chdir(input_path)
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m60493kw,1,1,1,
+m65577ha,1,0,1,"Output for test_file 2 was incorrect
+"
+m65670fa,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+m73289ls,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_m73289ls/./decrypt_m73289ls.py"", line 133, in <module>
+     os.chdir(outputpath)
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+m73648ak,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+m78355ls,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+m83653ns,1,1,1,
+m84249pk,1,1,1,
+m85559mk,1,1,0,"Output for test_file 3 was incorrect
+"
+m92824cm,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+n03227rm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n05919ah,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n07219hm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_n07219hm/./decrypt_n07219hm.py"", line 172, in <module>
+     read_text_file(input_folder_path + file_list[i])
+   File ""***Removed due to privacy***/decrypt_n07219hm/./decrypt_n07219hm.py"", line 90, in read_text_file
+     input_file = open(path,""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+n20773yz,1,1,1,
+n20851ew,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n25359ec,1,1,1,
+n35081bw,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n37169dk,1,1,1,
+n38595ae,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n39349ch,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n50699mm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n54133hu,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+n58949ah,1,1,1,
+n61655sb,1,1,1,
+n62189sd,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_n62189sd/./decrypt_n62189sd.py"", line 110, in <module>
+     dectext = dectext+dict[item]
+ KeyError: '.--.'
+ 
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+n66033ai,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+n66837sm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n72421tn,1,0,1,"Output for test_file 2 was incorrect
+"
+n79777aa,1,1,1,
+n80569fh,1,1,1,
+n86739dg,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+n91131bw,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_n91131bw/./decrypt_n91131bw.py"", line 11, in <module>
+     os.chdir(path1)
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+n91491mh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n95301jf,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+n95835ce,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+n96249ty,1,1,1,
+p00331rx,1,1,1,
+p01679ma,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+p06411ua,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_p06411ua/./decrypt_p06411ua.py"", line 20, in <module>
+     cipher_text_file = open (args.input + input_files[k], ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+p07229sl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p15748aa,1,1,1,
+p17128xt,1,1,1,
+p17498jw,1,1,1,
+p17540oa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p23525lg,1,1,1,
+p29365al,1,1,1,
+p31278rh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p33067ay,1,1,1,
+p34378lt,1,1,1,
+p35799ap,1,1,1,
+p37429am,1,1,1,
+p37736sm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p40515mt,1,1,1,
+p44469aq,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p44797jb,1,1,1,
+p48652gh,1,1,1,
+p49111md,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p49263ca,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p50391tc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p50792sd,1,1,0,"Output for test_file 3 was incorrect
+"
+p52048kg,1,1,1,
+p53237kh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p55643na,1,1,1,
+p56273gd,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+p56781ng,1,1,1,
+p61761ay,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+p62312tu,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p67189ml,1,1,1,
+p68686gl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p70810yk,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p72426yp,1,1,1,
+p72470id,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p73848hs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p75341vk,1,1,1,
+p76722cz,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p80249ra,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+p80873ab,1,0,1,"Output for test_file 2 was incorrect
+"
+p86963sp,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_p86963sp/./decrypt_p86963sp.py"", line 11, in <module>
+     inputF = open(inputFile, ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+p91607ma,1,0,1,"Output for test_file 2 was incorrect
+"
+p93899aa,1,1,1,
+p94302hm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_p94302hm/./decrypt_p94302hm.py"", line 9, in <module>
+     inputcipher = open(filepath, ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt/test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+p94886ms,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+p96457dw,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+p98424rp,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_p98424rp/./decrypt_p98424rp.py"", line 93, in <module>
+     encryption(input_folder_string, output_folder_string, file)
+   File ""***Removed due to privacy***/decrypt_p98424rp/./decrypt_p98424rp.py"", line 57, in encryption
+     f1=open(input_folder + filename,""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+p99614sy,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+q00848wh,1,1,1,
+q02710ts,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+q05506bb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+q08386js,1,1,0,"Output for test_file 3 was incorrect
+"
+q10556rn,1,1,1,
+q16332rs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+q17766yl,1,1,1,
+q18662ac,1,1,1,
+q22650aj,1,1,1,
+q26752aa,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_q26752aa/./decrypt_q26752aa.py"", line 63, in <module>
+     f = open(filepath, ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt/test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+q36172hw,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/decrypt_q36172hw/./decrypt_q36172hw.py"", line 12
+     print(I cannot finish this task, sorry)
+             ^
+ SyntaxError: invalid syntax
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+q44958jp,1,0,1,"Output for test_file 2 was incorrect
+"
+q50676ep,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+q53226rb,0,0,0,"Output for test_file 1 was incorrect
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+q57044nc,0,0,0,"Output for test_file 1 was incorrect
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+q66122my,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+q77644po,1,0,1,"Output for test_file 2 was incorrect
+"
+q78216ae,1,1,1,
+q78608sd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_q78608sd/./decrypt_q78608sd.py"", line 7, in <module>
+     ifile = open(i, ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+q83438yw,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_q83438yw/./decrypt_q83438yw.py"", line 54, in <module>
+     value2 = str(dictionary[item])
+ KeyError: '.--.'
+ 
+ Output for test_file 3 was incorrect
+"
+q86352bb,1,1,1,
+q89254rn,1,1,1,
+q90172mh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+q94072jl,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py"", line 131, in <module>
+     GetFileName()
+   File ""***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py"", line 129, in GetFileName
+     main(InputFilePath, OutputFilePath) #run main program while passing input and output file paths
+   File ""***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py"", line 27, in main
+     Message = Morse(InputData) 
+   File ""***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py"", line 84, in Morse
+     EncodedWord += letter #adds each letter (- or .) to Encoded word if it isn't a space
+ UnboundLocalError: local variable 'EncodedWord' referenced before assignment
+ 
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+q96128lf,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+r00979hl,1,1,1,
+r07539ym,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+r21857jl,1,1,1,
+r22997aa,0,0,0,"Output for test_file 1 was incorrect
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+r25329lc,1,1,1,
+r27125bw,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+r27413tj,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_r27413tj/./decrypt_r27413tj.py"", line 61, in <module>
+     os.chdir(path.output_folder)
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+r42421yz,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_r42421yz/./decrypt_r42421yz.py"", line 12, in <module>
+     os.mkdir(outputfilepath)
+ FileExistsError: [Errno 17] File exists: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+r46739lt,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+r50263ma,1,1,1,
+r56325cc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+r56677rp,1,0,1,"Output for test_file 2 was incorrect
+"
+r61875lj,1,1,1,
+r77503bd,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+r82969js,1,0,1,"Output for test_file 2 was incorrect
+"
+r83187jc,1,1,1,
+r85193di,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+r86515xl,1,1,0,"Output for test_file 3 was incorrect
+"
+r88993ia,1,1,1,
+r89835eb,1,1,1,
+r94627as,1,1,1,
+s03884aa,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_s03884aa/./decrypt_s03884aa.py"", line 5, in <module>
+     ipathfile = open(inputpath,""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+s09672ba,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s11642lf,1,1,0,"Output for test_file 3 was incorrect
+"
+s13496vg,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s13506jc,1,1,0,"Output for test_file 3 was incorrect
+"
+s23522ym,1,1,1,
+s29576tb,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_s29576tb/./decrypt_s29576tb.py"", line 33, in <module>
+     with open(fullOutputTxt, 'w') as out:
+ FileNotFoundError: [Errno 2] No such file or directory: 'output_2/test_file1_s29576tb.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+s42704jp,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_s42704jp/./decrypt_s42704jp.py"", line 63, in <module>
+     f = open(input_filepath, 'r', encoding='utf-8')
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+s50172ey,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s50548ma,1,1,1,
+s55264aa,1,0,1,"Output for test_file 2 was incorrect
+"
+s56124at,1,1,1,
+s58860aa,1,0,1,"Output for test_file 2 was incorrect
+"
+s62508as,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s63644vb,1,1,1,
+s65422mt,1,1,0,"Output for test_file 3 was incorrect
+"
+s68250ma,1,1,1,
+s74996sa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s78014sh,1,1,1,
+s78866kz,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s79104mh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s80648sh,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+s86124sy,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+s89582ph,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+s93700yl,1,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_s93700yl/./decrypt_s93700yl.py"", line 60, in <module>
+     decryption()
+   File ""***Removed due to privacy***/decrypt_s93700yl/./decrypt_s93700yl.py"", line 59, in decryption
+     decryption.decryptedMess += morseKey.get(key)
+ TypeError: can only concatenate str (not ""NoneType"") to str
+ 
+ Output for test_file 2 was incorrect
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+s94292yy,0,0,0,"Submission ran indefinitely and did not finish its execution. 
+ This does not mean the program did not execute it may or may not have produced some files or none
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+t02231ss,1,0,1,"Output for test_file 2 was incorrect
+"
+t09329lw,1,1,1,
+t17981qx,1,1,1,
+t28063tz,1,1,1,
+t28107tj,1,1,1,
+t30023mm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+t50885aa,1,1,0,"Output for test_file 3 was incorrect
+"
+t56091yd,1,1,1,
+t56225ro,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+t56563bk,1,1,1,
+t74769sm,1,1,1,
+t92001cr,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/decrypt_t92001cr/./decrypt_t92001cr.py"", line 52
+     code = ord(words[x][y].lower()) - 3
+ TabError: inconsistent use of tabs and spaces in indentation
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+u00074aj,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u08120fh,1,1,1,
+u18382zh,1,1,1,
+u18436re,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u24264cw,1,1,1,
+u25144jd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_u25144jd/./decrypt_u25144jd.py"", line 69, in <module>
+     output = decryption(open(sys.argv[1] + inputFile, ""r"").read())
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+u34592sg,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+u35610df,1,1,0,"Output for test_file 3 was incorrect
+"
+u38012ek,1,0,1,"Output for test_file 2 was incorrect
+"
+u43534sr,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_u43534sr/./decrypt_u43534sr.py"", line 81, in <module>
+     main()
+   File ""***Removed due to privacy***/decrypt_u43534sr/./decrypt_u43534sr.py"", line 70, in main
+     with open(encrypted, 'r') as e:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+u49728rt,1,0,1,"Output for test_file 2 was incorrect
+"
+u50490yz,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u54258as,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u59286dh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u60328el,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u60770mc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u61944rf,1,1,1,
+u63378mr,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u68780be,1,1,1,
+u71922pz,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u75904yl,1,1,0,"Output for test_file 3 was incorrect
+"
+u81076nr,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u82766jh,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+u89014ab,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+u95206ma,1,0,1,"Output for test_file 2 was incorrect
+"
+v04109yk,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+v08387yx,1,1,1,
+v08417jw,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+v12433ak,1,0,1,"Output for test_file 2 was incorrect
+"
+v14799cc,1,1,1,
+v21023jh,1,1,1,
+v26161ns,1,1,1,
+v30867dh,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+v31903mb,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+v35117sy,0,0,0,"Output for test_file 1 was incorrect
+ Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+v35417sp,1,1,1,
+v36373bb,1,1,1,
+v41567lb,1,1,1,
+v54835xw,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+v55941np,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+v63881oq,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+v65391yc,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_v65391yc/./decrypt_v65391yc.py"", line 97, in <module>
+     fileWrite(morse(startChange(content)), outputPath)
+   File ""***Removed due to privacy***/decrypt_v65391yc/./decrypt_v65391yc.py"", line 58, in morse
+     character = morseDict[item]
+ KeyError: '.--.'
+ 
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+v74211xw,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+v78159ee,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+v78643ld,1,1,0,"Output for test_file 3 was incorrect
+"
+v79907sy,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_v79907sy/./decrypt_v79907sy.py"", line 89, in <module>
+     files = os.listdir(input_path)
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+v80015aa,1,0,1,"Output for test_file 2 was incorrect
+"
+v91365dg,1,1,1,
+v94579az,1,1,1,
+v96969ss,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+v97159is,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  usage: decrypt_v97159is.py [-h] binary_file output_file
+ decrypt_v97159is.py: error: argument binary_file: can't open './test_files_encrypt': [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+w13634ps,1,1,0,"Output for test_file 3 was incorrect
+"
+w15122jl,1,1,0,"Output for test_file 3 was incorrect
+"
+w16910dg,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+w21706bc,1,1,1,
+w24218sh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+w25464il,1,1,0,"Output for test_file 3 was incorrect
+"
+w25478ia,1,1,1,
+w27888ms,1,1,1,
+w39362nv,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+w48678cd,1,1,1,
+w58006bh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+w60078be,1,1,1,
+w64810ak,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_w64810ak/./decrypt_w64810ak.py"", line 69, in <module>
+     f = open(args.input+filename)
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+w65214ka,1,0,1,"Output for test_file 2 was incorrect
+"
+w73862jb,1,1,1,
+w75724sb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+w80290jl,1,1,1,
+w90012gt,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+w92704dw,1,1,1,
+x09137dp,1,1,1,
+x12691yl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+x28381ot,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+x32001nm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_x32001nm/./decrypt_x32001nm.py"", line 10, in <module>
+     with open(finput, 'r') as fin:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+x33731ed,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_x33731ed/./decrypt_x33731ed.py"", line 80, in <module>
+     f = open(sys.argv[1]+""\\""+i,""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypt\\test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+x36049yl,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+x43615kc,1,1,1,
+x43881he,1,1,0,"Output for test_file 3 was incorrect
+"
+x46833ng,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+x47813as,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+x48913aw,1,1,0,"Output for test_file 3 was incorrect
+"
+x57595ts,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_x57595ts/./decrypt_x57595ts.py"", line 6, in <module>
+     os.mkdir(outFolder)
+ FileExistsError: [Errno 17] File exists: './results_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+x62165ih,1,1,1,
+x62967rr,1,1,1,
+x63917cd,1,1,1,
+x67955hw,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+x69739wx,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+x72017ww,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+x74657fa,1,1,1,
+x81829rs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+x83363dr,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+x97151hs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+y02478jh,1,0,1,"Output for test_file 2 was incorrect
+"
+y10240dt,1,1,1,
+y28244lw,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+y35654gw,1,1,1,
+y36340hc,1,1,1,
+y40034sl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+y41988al,0,0,0,"Submission ran indefinitely and did not finish its execution. 
+ This does not mean the program did not execute it may or may not have produced some files or none
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+y42270sg,1,0,1,"Output for test_file 2 was incorrect
+"
+y44694jk,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
+"
+y44780cs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+y45718mk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_y45718mk/./decrypt_y45718mk.py"", line 112, in <module>
+     f = morse_to_plaintext2(z)
+   File ""***Removed due to privacy***/decrypt_y45718mk/./decrypt_y45718mk.py"", line 111, in morse_to_plaintext2
+     return ' '.join(morse[i] for i in text.upper())
+   File ""***Removed due to privacy***/decrypt_y45718mk/./decrypt_y45718mk.py"", line 111, in <genexpr>
+     return ' '.join(morse[i] for i in text.upper())
+ KeyError: '\n'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+y47496ms,1,1,1,
+y48052as,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_y48052as/./decrypt_y48052as.py"", line 152, in <module>
+     translator(file)	
+   File ""***Removed due to privacy***/decrypt_y48052as/./decrypt_y48052as.py"", line 10, in translator
+     file1 = open(file_111)
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+y48410ap,1,1,1,
+y55496ks,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_y55496ks/./decrypt_y55496ks.py"", line 5, in <module>
+     file = open(inputFile, ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+y55928xn,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+y57776rs,1,1,1,
+y59276ma,1,1,1,
+y59426ra,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+y60150st,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+y62498rh,1,1,1,
+y65306ws,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_y65306ws/./decrypt_y65306ws.py"", line 8, in <module>
+     file = open(inputFile, ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+y66466tl,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+y67506st,1,1,1,
+y69004la,1,1,0,"Output for test_file 3 was incorrect
+"
+y70582kd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_y70582kd/./decrypt_y70582kd.py"", line 88, in <module>
+     list2.append(detMetod(text))
+   File ""***Removed due to privacy***/decrypt_y70582kd/./decrypt_y70582kd.py"", line 65, in detMetod
+     return morse(txt)
+   File ""***Removed due to privacy***/decrypt_y70582kd/./decrypt_y70582kd.py"", line 53, in morse
+     result += dict.get(i)
+ TypeError: can only concatenate str (not ""NoneType"") to str
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+y72828ah,1,1,0,"Output for test_file 3 was incorrect
+"
+y77372db,1,0,1,"Output for test_file 2 was incorrect
+"
+y78202oa,1,1,1,
+y96758ma,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+y99614zh,1,1,1,
+z03463sy,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+z12203pg,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+z13325aw,1,1,1,
+z16075sc,1,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_z16075sc/./decrypt_z16075sc.py"", line 67, in <module>
+     ans+=MorseList[g]
+ KeyError: '.--.'
+ 
+ Output for test_file 2 was incorrect
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+z34983bo,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+z35437sk,1,0,1,"Output for test_file 2 was incorrect
+"
+z39535rb,1,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_z39535rb/./decrypt_z39535rb.py"", line 63, in <module>
+     Text = [MorseList[letter] for letter in splitCode]
+   File ""***Removed due to privacy***/decrypt_z39535rb/./decrypt_z39535rb.py"", line 63, in <listcomp>
+     Text = [MorseList[letter] for letter in splitCode]
+ KeyError: '.--.'
+ 
+ Output for test_file 2 was incorrect
+ Output files were found however no output file was found for test_file 3 with the correct name format
+"
+z49927gl,1,1,1,
+z53195cy,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_z53195cy/./decrypt_z53195cy.py"", line 13, in <module>
+     f = open(args.input)
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+z54873hs,1,1,1,
+z70469ai,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+z70503ns,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+z74185ho,1,0,1,"Output for test_file 2 was incorrect
+"
+z80559hq,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+"
+z83313gg,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_z83313gg/./decrypt_z83313gg.py"", line 97, in <module>
+     main()
+   File ""***Removed due to privacy***/decrypt_z83313gg/./decrypt_z83313gg.py"", line 87, in main
+     file1 = open(args.inPath + i, ""r"")
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_encrypttest_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
+"
+z89079mb,1,1,0,"Output for test_file 3 was incorrect
+"
+z90677pp,1,1,1,

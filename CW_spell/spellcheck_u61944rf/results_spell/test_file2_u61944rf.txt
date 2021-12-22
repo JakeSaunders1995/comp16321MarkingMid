@@ -1,9 +1,0 @@
-u61944rf
-Formatting ###################
-Number of upper case words changed: 3
-Number of punctuations removed: 3
-Number of numbers removed: 0
-Spellchecking ###################
-Number of words: 17
-Number of correct words: 17
-Number of incorretc words: 0

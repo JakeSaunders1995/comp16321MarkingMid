@@ -1,0 +1,9 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/spellcheck_p06411ua/./spellcheck_p06411ua.py", line 42, in <module>
+    input_text_file = open (args.input + input_files[i], "r")
+FileNotFoundError: [Errno 2] No such file or directory: './test_files_spelltest_file1.txt'
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

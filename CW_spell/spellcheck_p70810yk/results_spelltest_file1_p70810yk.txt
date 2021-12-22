@@ -1,9 +1,0 @@
-p70810yk
-Formatting ###################
-Number of upper case letters changed: 3
-Number of punctuations removed: 2
-Number of numbers removed: 3
-Spellchecking ###################
-Number of words: 17
-Number of correct words: 16
-Number of incorrect words: 1

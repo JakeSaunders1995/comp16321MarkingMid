@@ -34,7 +34,10 @@ for file in os.listdir():
     #removes numbers and punctuation
     for char in input:
         if char in punctuation:
-            input = input.replace(char,"")
+            if char == "'":
+                input = input.replace(char,"")
+            else:
+                input = input.replace(char," ")
             punc_removed += 1
         if char in numbers:
             input = input.replace(char,"")
@@ -54,11 +57,10 @@ for file in os.listdir():
     total_words = correct_words + incorrect_words
 
     filepath = args.output + '/' + get_name(file)
-    print(input.split())
     w = open(filepath, "w")
     w.write("q26752aa\n")
     w.write("Formatting ###################\n")
-    w.write("Number of upper case words changed: "+str(caps_removed)+"\n")
+    w.write("Number of upper case letters changed: "+str(caps_removed)+"\n")
     w.write("Number of punctuations removed: "+str(punc_removed)+"\n")
     w.write("Number of numbers removed: "+str(nums_removed)+"\n")
     w.write("Spellchecking ###################\n")

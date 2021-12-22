@@ -1,9 +1,9 @@
 q50676ep
 Formatting ###########
 Number of upper case letters change: 3
-Number of punctuations removed: 2
-Number of numbers removed: 3
+Number of punctuations removed: 3
+Number of numbers removed: 0
 Spellchecking ###########
-Number of words: 17
+Number of words: 16
 Number of correct words: 15
-Number of incorrect words: 2
+Number of incorrect words: 1

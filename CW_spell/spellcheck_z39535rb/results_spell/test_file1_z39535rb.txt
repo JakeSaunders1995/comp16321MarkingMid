@@ -1,6 +1,6 @@
 z39535rb
 Formatting ###################
-Number of upper case words changed: 3
+Number of upper case letters changed: 3
 Number of punctuations removed:2
 Number of numbers removed: 3
 Spellchecking ###################

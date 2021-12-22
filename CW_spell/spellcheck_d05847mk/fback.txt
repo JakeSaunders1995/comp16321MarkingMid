@@ -1,0 +1,11 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/spellcheck_d05847mk/./spellcheck_d05847mk.py", line 79, in <module>
+    output()
+  File "***Removed due to privacy***/spellcheck_d05847mk/./spellcheck_d05847mk.py", line 53, in output
+    os.chdir(outputpath)
+FileNotFoundError: [Errno 2] No such file or directory: './results_spell'
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

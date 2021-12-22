@@ -1,0 +1,11 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_f15107sn/./decrypt_f15107sn.py", line 83, in <module>
+    enc_txt= read_file(args.in_file)
+  File "***Removed due to privacy***/decrypt_f15107sn/./decrypt_f15107sn.py", line 4, in read_file
+    in_f= open(in_file,'r')
+IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

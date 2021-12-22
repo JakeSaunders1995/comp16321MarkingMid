@@ -1,0 +1,7 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ usage: rugby_m42677js.py [-h] input o
+rugby_m42677js.py: error: argument input: can't open './test_files_rugby': [Errno 21] Is a directory: './test_files_rugby'
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)

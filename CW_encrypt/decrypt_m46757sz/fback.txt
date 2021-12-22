@@ -1,0 +1,13 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_m46757sz/./decrypt_m46757sz.py", line 76, in <module>
+    main(sys.argv)
+  File "***Removed due to privacy***/decrypt_m46757sz/./decrypt_m46757sz.py", line 72, in main
+    decrypted_txt = decrypt(cipher_txt)
+  File "***Removed due to privacy***/decrypt_m46757sz/./decrypt_m46757sz.py", line 58, in decrypt
+    r += MorseList[z]
+KeyError: '.--.'
+
+Output files were found however no output file was found for test_file 3 with the correct name format

@@ -2,10 +2,6 @@ import os
 import argparse
 import re
 
-# 执行命令：
-# .\venv\Scripts\python.exe .\Descrypt\decrypt_u82766jh.py .\Descrypt\input\ .\Descrypt\output
-
-# 解密
 def descrypt(input_file, output_file):
     file1 = open(input_file, 'r')
     content = file1.read()
@@ -66,8 +62,6 @@ def descrypt(input_file, output_file):
             file2.write(s)
         file2.close
 
-
-# 读取目录下所有的文件
 def list_dir(start_dir):
     file_list = []
     dir_res = os.listdir(start_dir)
@@ -84,16 +78,12 @@ if __name__ == '__main__':
     argv.add_argument("target_folder")
     argv_list = argv.parse_args()
 
-    # 获取所有文件列表
     test_file_list = list_dir(argv_list.test_folder)
-    # print(test_file_list)
 
-    # 判断目录是否存在
     output_path = argv_list.target_folder
     if os.path.exists(output_path) == False:
         os.mkdir(output_path)
 
-    # 遍历所有文件
     for test_file in test_file_list:
         output_file = output_path + '/' + test_file.replace(argv_list.test_folder, '')
         descrypt(test_file, output_file)

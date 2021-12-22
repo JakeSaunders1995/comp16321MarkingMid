@@ -1,9 +1,9 @@
 c29038sx
 Formatting ###################
-Number of upper case words transformed: 3
-Number of punctuation’s removed: 3
+Number of upper case letters changed: 3
+Number of punctuations removed: 3
 Number of numbers removed: 0
 Spellchecking ###################
-Number of words in file: 17
-Number of correct words in file: 17
-Number of incorrect words in file: 0
+Number of words: 17
+Number of correct words: 17
+Number of incorrect words: 0

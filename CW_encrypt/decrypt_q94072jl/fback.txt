@@ -1,0 +1,15 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py", line 131, in <module>
+    GetFileName()
+  File "***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py", line 129, in GetFileName
+    main(InputFilePath, OutputFilePath) #run main program while passing input and output file paths
+  File "***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py", line 27, in main
+    Message = Morse(InputData) 
+  File "***Removed due to privacy***/decrypt_q94072jl/./decrypt_q94072jl.py", line 84, in Morse
+    EncodedWord += letter #adds each letter (- or .) to Encoded word if it isn't a space
+UnboundLocalError: local variable 'EncodedWord' referenced before assignment
+
+Output files were found however no output file was found for test_file 3 with the correct name format

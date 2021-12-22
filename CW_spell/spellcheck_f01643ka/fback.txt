@@ -1,0 +1,16 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/spellcheck_f01643ka/./spellcheck_f01643ka.py", line 29, in <module>
+    if co != len(file) and i == file[co+1] and i == file[co+2]:
+IndexError: string index out of range
+
+Output for test_file 1 was incorrect
+Word count was incorrect for test_file1
+Correct word count was incorrect for test_file1
+Incorrect word count was incorrect for test_file1
+Output for test_file 2 was incorrect
+Correct word count was incorrect for test_file2
+Incorrect word count was incorrect for test_file2
+Output files were found however no output file was found for test_file 3 with the correct name format

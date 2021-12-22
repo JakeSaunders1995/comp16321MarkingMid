@@ -1,0 +1,9 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_f93937xl/./decrypt_f93937xl.py", line 73, in <module>
+    answer3 += MorseList[item].lower()
+KeyError: '.--.'
+
+Output files were found however no output file was found for test_file 3 with the correct name format

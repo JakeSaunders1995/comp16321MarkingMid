@@ -1,0 +1,9 @@
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/spellcheck_m32784sh/./spellcheck_m32784sh.py", line 9, in <module>
+    wordsFile = open(os.path.join(args.words, 'EnglishWords.txt'))
+NotADirectoryError: [Errno 20] Not a directory: './EnglishWords.txt/EnglishWords.txt'
+
+No files were created within the results folder. (This does not mean files were not created elsewhere)
