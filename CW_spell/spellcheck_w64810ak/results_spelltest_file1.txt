@@ -1,0 +1,6 @@
+Spellchecking########### 
+Number of words in file: 17
+Number of correct words in file: 14
+Number of incorrect words in file: 3
+Number of incorrect words in file: 3
+Number of punctuation's removed: 2

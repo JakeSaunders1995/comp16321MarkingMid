@@ -48,6 +48,7 @@ for fn in os.listdir(os.getcwd()):
                 T2+=p
             if list[i][2]=='d':
                 T2+=d
+
     if T1>T2:
         print('T1 wins')
     elif T2>T1:

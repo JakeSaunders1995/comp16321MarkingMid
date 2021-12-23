@@ -1,0 +1,9 @@
+h13549so
+Formatting ###################
+Number of uppercase words changed: 3
+Number of punctuations removed: 3
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 17
+Number of inccorrect words: 0

@@ -5,7 +5,6 @@ parser.add_argument("outputFolder")
 args = parser.parse_args()
 input1 = args.inputFile
 output = args.outputFolder
-
 files = os.listdir(input1)
 
 def getScores(file):

@@ -1,2 +1,13 @@
-Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_s80648sh/./decrypt_s80648sh.py", line 128, in <module>
+    decryption(input_folder + "/" + input_files[i],output_folder)
+  File "***Removed due to privacy***/decrypt_s80648sh/./decrypt_s80648sh.py", line 116, in decryption
+    output(decrypted_message)
+  File "***Removed due to privacy***/decrypt_s80648sh/./decrypt_s80648sh.py", line 97, in output
+    file = open(output_path,"a")
+FileNotFoundError: [Errno 2] No such file or directory: './results_encrypt./test_files_encrypt/test_file1_s80648sh.txt'
+
 No files were created within the results folder. (This does not mean files were not created elsewhere)

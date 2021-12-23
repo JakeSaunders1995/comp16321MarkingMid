@@ -1,5 +1,6 @@
 import os
 import subprocess
+from fnmatch import fnmatch
 
 if __name__ == '__main__':
 
@@ -54,13 +55,12 @@ if __name__ == '__main__':
 
 
 
-        #Get files from unpack if they exist and put them in the right folder
-        if os.path.exists(f'./unpacked_repos/{student}_prog2_encryption'):
-            list_of_py_files = os.listdir(f'./unpacked_repos/{student}_prog2_encryption')
-            #Copy all python files in directory into folders
-            for file in list_of_py_files:
-                if file.endswith('.py'):
-                    move_input = ['cp', f'./unpacked_repos/{student}_prog2_encryption/{file}', f'./CW_encrypt/decrypt_{student}']
+        # search all direcotry and subdirectorys to find py files in the unpackked repo
+        print(student)
+        for path, subdirs, files in os.walk(f'./unpacked_repos/{student}_prog2_encryption'):
+            for name in files:
+                if fnmatch(name, "*.py"):
+                    move_input = ['cp', f'{path}/{name}', f'./CW_encrypt/decrypt_{student}']
                     subprocess.call(move_input)
 
 

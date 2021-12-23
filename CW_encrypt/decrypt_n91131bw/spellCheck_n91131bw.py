@@ -25,6 +25,7 @@ num=['0','1','2','3','4','5','6','7','8','9']
 acc=[]
 
 f=False
+
 for fn in os.listdir(os.getcwd()):
     os.chdir(path1)
     f=open(os.path.join(os.getcwd(),fn), 'r')
@@ -58,7 +59,6 @@ for fn in os.listdir(os.getcwd()):
     
     x=x.split(' ')
     cco=0
-    
     for i in range(len(x)):
         for j in range (len(eng)):
             if eng[j]==x[i]:

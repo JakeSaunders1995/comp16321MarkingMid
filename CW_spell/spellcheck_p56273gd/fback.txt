@@ -1,2 +1,6 @@
-No submission was found under the prog3_spellchecker tag for the spellchecking task
-No files were created within the results folder. (This does not mean files were not created elsewhere)
+Output for test_file 1 was incorrect
+Punctuation count was incorrect for test_file1
+Correct word count was incorrect for test_file1
+Incorrect word count was incorrect for test_file1
+Output for test_file 2 was incorrect
+Punctuation count was incorrect for test_file2

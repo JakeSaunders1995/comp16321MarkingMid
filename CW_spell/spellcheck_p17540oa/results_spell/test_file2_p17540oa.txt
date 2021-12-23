@@ -1,0 +1,9 @@
+p17540oa
+Formatting ###################
+Number of upper case letters changed: 3
+Number of punctuations removed: 3
+Number of numbers removed: 0
+Spellchecking ###################
+Number of words: 17
+Number of correct words: 0
+Number of incorrect words: 17

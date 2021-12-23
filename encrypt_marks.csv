@@ -120,10 +120,17 @@ b98919gs,0,0,0,"Submission ran but did not finish its execution due to the error
 c00182zl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
 c01724bh,1,1,1,
-c20818hb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+c20818hb,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_c20818hb/./decrypt_c20818hb.py"", line 14, in <module>
+     with open(inputFilePath, 'r') as f:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-c28644ab,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+c28644ab,1,1,1,
 c29038sx,1,1,1,
 c29824zl,1,0,0,"Output for test_file 2 was incorrect
  Output for test_file 3 was incorrect
@@ -259,7 +266,7 @@ d62825cd,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 d66835dg,1,0,1,"Output for test_file 2 was incorrect
 "
-d71343si,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+d71343si,1,0,1,"Output for test_file 2 was incorrect
 "
 d72499pd,1,1,0,"Output for test_file 3 was incorrect
 "
@@ -305,7 +312,8 @@ e55646sa,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-e58068tt,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+e58068tt,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 e58690mu,1,1,1,
 e58876ch,1,0,1,"Output for test_file 2 was incorrect
@@ -350,8 +358,7 @@ f11711jy,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-f13855hl,1,0,1,"Output for test_file 2 was incorrect
-"
+f13855hl,1,1,1,
 f15107sn,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
  
@@ -366,7 +373,8 @@ f15107sn,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 f18903ls,1,1,1,
 f21939kg,1,1,1,
-f25035sb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+f25035sb,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 f33805pg,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
@@ -394,8 +402,7 @@ f53919qy,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-f54617sa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+f54617sa,1,1,1,
 f57695ks,1,1,1,
 f60163yw,0,0,0,"Output for test_file 1 was incorrect
  Output for test_file 2 was incorrect
@@ -455,7 +462,17 @@ g33966si,1,1,0,"Output for test_file 3 was incorrect
 "
 g39786dp,1,0,1,"Output for test_file 2 was incorrect
 "
-g45512id,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+g45512id,1,1,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_g45512id/./decrypt_g45512id.py"", line 95, in <module>
+     text = morse_decrypt(text)
+   File ""***Removed due to privacy***/decrypt_g45512id/./decrypt_g45512id.py"", line 68, in morse_decrypt
+     decipher += list(morse_dict.keys())[list(morse_dict.values()).index(citext)]
+ NameError: name 'citext' is not defined
+ 
+ Output files were found however no output file was found for test_file 3 with the correct name format
 "
 g58440zy,1,1,1,
 g60486zz,1,1,1,
@@ -490,8 +507,7 @@ g86908rc,0,0,0,"No submission was found under the prog2_encryption tag for the e
 "
 g91274qw,1,1,1,
 g92198jz,1,1,1,
-h00203pb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+h00203pb,1,1,1,
 h01895cg,1,1,1,
 h04151jk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
@@ -522,7 +538,15 @@ h15879ac,0,0,0,"Submission ran but did not finish its execution due to the error
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 h18603tp,1,1,1,
-h18609dp,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+h18609dp,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_h18609dp/./decrypt_h18609dp.py"", line 11, in <module>
+     with open(src, ""r"", encoding=""utf-8"") as f:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 h19243yp,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
@@ -542,8 +566,7 @@ h37701dk,1,1,1,
 h39449sy,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
 h45007bk,1,1,1,
-h48741ew,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+h48741ew,1,1,1,
 h49151gd,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
@@ -575,8 +598,7 @@ h61781jp,0,0,0,"Submission ran but did not finish its execution due to the error
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 h63651bn,1,1,1,
-h64203za,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+h64203za,1,1,1,
 h64411rs,1,1,0,"Output for test_file 3 was incorrect
 "
 h70565na,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
@@ -600,7 +622,8 @@ h85345ww,0,0,0,"Submission ran but did not finish its execution due to the error
 h86959th,1,1,1,
 h89565jc,1,1,1,
 h96407tf,1,1,1,
-j06597jr,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+j06597jr,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 j06724tc,1,1,1,
 j08328hd,1,1,1,
@@ -657,7 +680,7 @@ j45220sl,0,0,0,"Submission ran but did not finish its execution due to the error
 j48751oa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
 j49970fa,1,1,1,
-j52026pk,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+j52026pk,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 j54137ss,1,1,1,
 j56995jg,1,1,1,
@@ -677,7 +700,8 @@ j80841pg,1,0,1,"Output for test_file 2 was incorrect
 j81034dp,1,1,1,
 j81448im,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-j86153jd,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+j86153jd,1,0,0,"Output for test_file 2 was incorrect
+ Output for test_file 3 was incorrect
 "
 j90095jb,1,0,1,"Output for test_file 2 was incorrect
 "
@@ -759,11 +783,11 @@ k75018lg,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 k77872uk,1,1,0,"Output for test_file 3 was incorrect
 "
-k78886jb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+k78886jb,1,1,1,
 k88166nd,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-k92160ym,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+k92160ym,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 k96010wp,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
  No files were created within the results folder. (This does not mean files were not created elsewhere)
@@ -906,8 +930,7 @@ m73289ls,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 m73648ak,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-m78355ls,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+m78355ls,1,1,1,
 m83653ns,1,1,1,
 m84249pk,1,1,1,
 m85559mk,1,1,0,"Output for test_file 3 was incorrect
@@ -961,7 +984,15 @@ n62189sd,1,1,0,"Submission ran but did not finish its execution due to the error
 n66033ai,1,0,0,"Output for test_file 2 was incorrect
  Output for test_file 3 was incorrect
 "
-n66837sm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+n66837sm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_n66837sm/./decrypt_n66837sm.py"", line 16, in <module>
+     files_and_directories = os.listdir(""input_folder"")
+ FileNotFoundError: [Errno 2] No such file or directory: 'input_folder'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 n72421tn,1,0,1,"Output for test_file 2 was incorrect
 "
@@ -1009,7 +1040,8 @@ p07229sl,0,0,0,"No submission was found under the prog2_encryption tag for the e
 p15748aa,1,1,1,
 p17128xt,1,1,1,
 p17498jw,1,1,1,
-p17540oa,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+p17540oa,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p23525lg,1,1,1,
 p29365al,1,1,1,
@@ -1019,18 +1051,34 @@ p33067ay,1,1,1,
 p34378lt,1,1,1,
 p35799ap,1,1,1,
 p37429am,1,1,1,
-p37736sm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+p37736sm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_p37736sm/./decrypt_p37736sm.py"", line 7, in <module>
+     infile = open(infile, ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p40515mt,1,1,1,
 p44469aq,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
 p44797jb,1,1,1,
 p48652gh,1,1,1,
-p49111md,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+p49111md,1,1,0,"Output for test_file 3 was incorrect
 "
 p49263ca,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-p50391tc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+p50391tc,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_p50391tc/./decrypt_p50391tc.py"", line 2, in <module>
+     file= open('test_file1.txt','r')
+ FileNotFoundError: [Errno 2] No such file or directory: 'test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p50792sd,1,1,0,"Output for test_file 3 was incorrect
 "
@@ -1051,12 +1099,14 @@ p62312tu,0,0,0,"No submission was found under the prog2_encryption tag for the e
 p67189ml,1,1,1,
 p68686gl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-p70810yk,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+p70810yk,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p72426yp,1,1,1,
 p72470id,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-p73848hs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+p73848hs,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
 "
 p75341vk,1,1,1,
 p76722cz,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
@@ -1106,7 +1156,14 @@ p98424rp,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-p99614sy,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+p99614sy,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/decrypt_p99614sy/./decrypt_p99614sy.py"", line 93
+     output_file.close()
+ IndentationError: unexpected indent
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 q00848wh,1,1,1,
 q02710ts,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
@@ -1266,7 +1323,15 @@ s09672ba,0,0,0,"No submission was found under the prog2_encryption tag for the e
 "
 s11642lf,1,1,0,"Output for test_file 3 was incorrect
 "
-s13496vg,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+s13496vg,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_s13496vg/./decrypt_s13496vg.py"", line 123, in <module>
+     all_files = os.listdir(Input_Location)
+ FileNotFoundError: [Errno 2] No such file or directory: '/test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 s13506jc,1,1,0,"Output for test_file 3 was incorrect
 "
@@ -1312,7 +1377,18 @@ s78866kz,0,0,0,"No submission was found under the prog2_encryption tag for the e
 "
 s79104mh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-s80648sh,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
+s80648sh,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_s80648sh/./decrypt_s80648sh.py"", line 128, in <module>
+     decryption(input_folder + ""/"" + input_files[i],output_folder)
+   File ""***Removed due to privacy***/decrypt_s80648sh/./decrypt_s80648sh.py"", line 116, in decryption
+     output(decrypted_message)
+   File ""***Removed due to privacy***/decrypt_s80648sh/./decrypt_s80648sh.py"", line 97, in output
+     file = open(output_path,""a"")
+ FileNotFoundError: [Errno 2] No such file or directory: './results_encrypt./test_files_encrypt/test_file1_s80648sh.txt'
+ 
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 s86124sy,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
@@ -1343,7 +1419,7 @@ t09329lw,1,1,1,
 t17981qx,1,1,1,
 t28063tz,1,1,1,
 t28107tj,1,1,1,
-t30023mm,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+t30023mm,1,0,1,"Output for test_file 2 was incorrect
 "
 t50885aa,1,1,0,"Output for test_file 3 was incorrect
 "
@@ -1405,12 +1481,28 @@ u54258as,0,0,0,"No submission was found under the prog2_encryption tag for the e
 "
 u59286dh,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-u60328el,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+u60328el,1,0,1,"Output for test_file 2 was incorrect
 "
-u60770mc,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+u60770mc,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_u60770mc/./decrypt_u60770mc.py"", line 3, in <module>
+     file = open(sys.argv[1],""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 u61944rf,1,1,1,
-u63378mr,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+u63378mr,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_u63378mr/./decrypt_u63378mr.py"", line 123, in <module>
+     all_files = os.listdir(Input_Location)
+ FileNotFoundError: [Errno 2] No such file or directory: '/test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 u68780be,1,1,1,
 u71922pz,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
@@ -1472,8 +1564,7 @@ v65391yc,1,1,0,"Submission ran but did not finish its execution due to the error
 "
 v74211xw,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-v78159ee,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+v78159ee,1,1,1,
 v78643ld,1,1,0,"Output for test_file 3 was incorrect
 "
 v79907sy,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
@@ -1538,13 +1629,11 @@ w73862jb,1,1,1,
 w75724sb,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
 w80290jl,1,1,1,
-w90012gt,0,0,0,"Submission was found under the prog2_encryption tag for the encryption task but the file is named incorrectly
- No files were created within the results folder. (This does not mean files were not created elsewhere)
+w90012gt,1,1,0,"Output for test_file 3 was incorrect
 "
 w92704dw,1,1,1,
 x09137dp,1,1,1,
-x12691yl,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+x12691yl,1,1,1,
 x28381ot,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
  Output files were found however no output file was found for test_file 2 with the correct name format
  Output files were found however no output file was found for test_file 3 with the correct name format
@@ -1577,8 +1666,7 @@ x43881he,1,1,0,"Output for test_file 3 was incorrect
 "
 x46833ng,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
-x47813as,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+x47813as,1,1,1,
 x48913aw,1,1,0,"Output for test_file 3 was incorrect
 "
 x57595ts,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
@@ -1628,7 +1716,15 @@ y42270sg,1,0,1,"Output for test_file 2 was incorrect
 y44694jk,1,0,0,"Output for test_file 2 was incorrect
  Output for test_file 3 was incorrect
 "
-y44780cs,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+y44780cs,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_y44780cs/./decrypt_y44780cs.py"", line 123, in <module>
+     all_files = os.listdir(Input_Location)
+ FileNotFoundError: [Errno 2] No such file or directory: '/test_files_encrypt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 y45718mk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
@@ -1673,20 +1769,24 @@ y55928xn,0,0,0,"Submission was found under the prog2_encryption tag for the encr
 "
 y57776rs,1,1,1,
 y59276ma,1,1,1,
-y59426ra,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+y59426ra,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/decrypt_y59426ra/./decrypt_y59426ra.py"", line 82, in <module>
+     file.write(hexDecryption(TextInFile))
+   File ""***Removed due to privacy***/decrypt_y59426ra/./decrypt_y59426ra.py"", line 11, in hexDecryption
+     DecodedTextHEX = bytes.fromhex(textH)
+ ValueError: non-hexadecimal number found in fromhex() arg at position 1
+ 
+ Output for test_file 1 was incorrect
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
 "
 y60150st,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "
 y62498rh,1,1,1,
-y65306ws,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
- This does not mean the program did not execute however, it may or may not have produced some files or none: 
- 
-  Traceback (most recent call last):
-   File ""***Removed due to privacy***/decrypt_y65306ws/./decrypt_y65306ws.py"", line 8, in <module>
-     file = open(inputFile, ""r"")
- IsADirectoryError: [Errno 21] Is a directory: './test_files_encrypt'
- 
- No files were created within the results folder. (This does not mean files were not created elsewhere)
+y65306ws,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 y66466tl,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
  Output files were found however no output file was found for test_file 2 with the correct name format
@@ -1714,10 +1814,11 @@ y72828ah,1,1,0,"Output for test_file 3 was incorrect
 y77372db,1,0,1,"Output for test_file 2 was incorrect
 "
 y78202oa,1,1,1,
-y96758ma,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
-"
+y96758ma,1,1,1,
 y99614zh,1,1,1,
-z03463sy,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
+z03463sy,0,0,0,"Submission ran indefinitely and did not finish its execution. 
+ This does not mean the program did not execute it may or may not have produced some files or none
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 z12203pg,0,0,0,"No submission was found under the prog2_encryption tag for the encryption task
 "

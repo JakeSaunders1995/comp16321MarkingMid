@@ -41,7 +41,7 @@ if __name__ == '__main__':
 
             #Find if any files were create
             files_created = os.listdir(f'./results_encrypt')
-            if files_created == []:
+            if len(files_created) == 0:
                no_created_files = True
             else:
                 #check their names

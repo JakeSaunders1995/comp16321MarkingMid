@@ -1,0 +1,9 @@
+r82969js
+Formatting ####################
+Number of upper case words transformed: 3
+Number of punctuation's removed: 10
+Number of numbers removed: 0
+SpellChecking ####################
+Number of words in file: 27
+Number of correct words in file: 27
+Number of incorrect words in file: 0

@@ -1,1 +1,11 @@
-No submission was found under the prog2_encryption tag for the encryption task
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+ Traceback (most recent call last):
+  File "***Removed due to privacy***/decrypt_g45512id/./decrypt_g45512id.py", line 95, in <module>
+    text = morse_decrypt(text)
+  File "***Removed due to privacy***/decrypt_g45512id/./decrypt_g45512id.py", line 68, in morse_decrypt
+    decipher += list(morse_dict.keys())[list(morse_dict.values()).index(citext)]
+NameError: name 'citext' is not defined
+
+Output files were found however no output file was found for test_file 3 with the correct name format

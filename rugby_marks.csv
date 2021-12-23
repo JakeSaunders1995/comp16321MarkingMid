@@ -97,10 +97,17 @@ b98919gs,1,1,1,
 c00182zl,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 c01724bh,1,1,1,
-c20818hb,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+c20818hb,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_c20818hb/./rugby_c20818hb.py"", line 8, in <module>
+     with open(inputFilePath, 'r') as f:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-c28644ab,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+c28644ab,1,1,1,
 c29038sx,1,1,1,
 c29824zl,1,1,1,
 c38534kt,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
@@ -172,8 +179,7 @@ d62825cd,0,0,0,"Submission ran but did not finish its execution due to the error
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 d66835dg,1,1,1,
-d71343si,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+d71343si,1,1,1,
 d72499pd,1,1,1,
 d88719ry,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
@@ -264,8 +270,7 @@ f11711jy,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-f13855hl,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+f13855hl,1,1,1,
 f15107sn,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
  
@@ -280,7 +285,8 @@ f15107sn,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 f18903ls,1,1,1,
 f21939kg,1,1,1,
-f25035sb,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+f25035sb,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 f33805pg,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
@@ -308,8 +314,7 @@ f53919qy,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-f54617sa,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+f54617sa,1,1,1,
 f57695ks,1,1,1,
 f60163yw,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
@@ -358,8 +363,7 @@ g28708at,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 g33966si,1,1,1,
 g39786dp,1,1,1,
-g45512id,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+g45512id,1,1,1,
 g58440zy,1,1,1,
 g60486zz,1,1,1,
 g62512ww,1,1,1,
@@ -373,7 +377,14 @@ g71830mc,0,0,0,"Output files were found however no output file was found for tes
 g75342ms,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 g75462fw,1,1,1,
-g77134dr,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
+g77134dr,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+    File ""***Removed due to privacy***/rugby_g77134dr/./rugby_g77134dr.py"", line 45
+     elif letter == ""d"":
+                        ^
+ IndentationError: unindent does not match any outer indentation level
+ 
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 g78196wl,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
@@ -410,8 +421,7 @@ g92198jz,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-h00203pb,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+h00203pb,1,1,1,
 h01895cg,1,1,1,
 h04151jk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
@@ -442,7 +452,15 @@ h18603tp,0,0,0,"Output files were found however no output file was found for tes
  Output files were found however no output file was found for test_file 2 with the correct name format
  Output files were found however no output file was found for test_file 3 with the correct name format
 "
-h18609dp,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+h18609dp,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_h18609dp/./rugby_h18609dp.py"", line 14, in <module>
+     with open(src, ""r"", encoding=""utf-8"") as f:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 h19243yp,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
@@ -462,8 +480,7 @@ h37701dk,1,1,1,
 h39449sy,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 h45007bk,1,1,1,
-h48741ew,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+h48741ew,1,1,1,
 h49151gd,1,0,1,"Score output for test_file 2 was incorrect
 "
 h50141yq,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
@@ -493,8 +510,7 @@ h61781jp,0,0,0,"Submission ran but did not finish its execution due to the error
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 h63651bn,1,1,1,
-h64203za,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+h64203za,1,1,1,
 h64411rs,1,1,1,
 h70565na,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
@@ -516,7 +532,15 @@ h85345ww,0,0,0,"Submission ran but did not finish its execution due to the error
 h86959th,1,1,1,
 h89565jc,1,1,1,
 h96407tf,1,1,1,
-j06597jr,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+j06597jr,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_j06597jr/./rugby_j06597jr.py"", line 30, in <module>
+     os.chdir(inputFolder)
+ FileNotFoundError: [Errno 2] No such file or directory: './test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 j06724tc,1,1,1,
 j08328hd,1,1,1,
@@ -580,7 +604,7 @@ j45220sl,0,0,0,"Submission ran but did not finish its execution due to the error
 j48751oa,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 j49970fa,1,1,1,
-j52026pk,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+j52026pk,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 j54137ss,1,1,1,
 j56995jg,1,1,1,
@@ -600,8 +624,7 @@ j80841pg,1,1,1,
 j81034dp,1,1,1,
 j81448im,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-j86153jd,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+j86153jd,1,1,1,
 j90095jb,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
  
@@ -689,11 +712,11 @@ k75018lg,0,0,0,"Submission ran but did not finish its execution due to the error
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 k77872uk,1,1,1,
-k78886jb,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+k78886jb,1,1,1,
 k88166nd,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-k92160ym,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+k92160ym,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 k96010wp,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
@@ -804,8 +827,7 @@ m73289ls,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 m73648ak,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-m78355ls,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+m78355ls,1,1,1,
 m83653ns,1,1,1,
 m84249pk,1,1,1,
 m85559mk,1,1,1,
@@ -858,7 +880,15 @@ n58949ah,1,1,1,
 n61655sb,1,1,1,
 n62189sd,1,1,1,
 n66033ai,1,1,1,
-n66837sm,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+n66837sm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_n66837sm/./rugby_n66837sm.py"", line 15, in <module>
+     files_and_directories = os.listdir(""input_folder"")
+ FileNotFoundError: [Errno 2] No such file or directory: 'input_folder'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 n72421tn,1,1,1,
 n79777aa,1,1,1,
@@ -914,8 +944,7 @@ p17128xt,0,0,0,"Submission ran but did not finish its execution due to the error
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p17498jw,1,1,1,
-p17540oa,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+p17540oa,1,1,1,
 p23525lg,1,1,1,
 p29365al,0,0,0,"Score output for test_file 1 was incorrect
  Score output for test_file 2 was incorrect
@@ -927,18 +956,33 @@ p33067ay,1,1,1,
 p34378lt,1,1,1,
 p35799ap,1,1,1,
 p37429am,1,1,1,
-p37736sm,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+p37736sm,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_p37736sm/./rugby_p37736sm.py"", line 6, in <module>
+     infile = open(infile, ""r"")
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p40515mt,1,1,1,
 p44469aq,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 p44797jb,1,1,1,
 p48652gh,1,1,1,
-p49111md,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+p49111md,1,1,1,
 p49263ca,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-p50391tc,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+p50391tc,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_p50391tc/./rugby_p50391tc.py"", line 3, in <module>
+     file= open('test_file1.txt','r')
+ FileNotFoundError: [Errno 2] No such file or directory: 'test_file1.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p50792sd,1,1,1,
 p52048kg,1,1,1,
@@ -955,12 +999,22 @@ p62312tu,0,0,0,"No submission was found under the prog1_rugby tag for the rugby 
 p67189ml,1,1,1,
 p68686gl,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-p70810yk,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+p70810yk,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_p70810yk/./rugby_p70810yk.py"", line 39, in <module>
+     output = open(outputpath+outputfile[0]+""_p70810yk.txt"",""x"")
+ FileExistsError: [Errno 17] File exists: './results_rugbytest_file1_p70810yk.txt'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 p72426yp,1,1,1,
 p72470id,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-p73848hs,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+p73848hs,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
+ Output files were found however no output file was found for test_file 2 with the correct name format
+ Output files were found however no output file was found for test_file 3 with the correct name format
 "
 p75341vk,1,1,1,
 p76722cz,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
@@ -1017,8 +1071,7 @@ p98424rp,0,0,0,"Submission ran but did not finish its execution due to the error
  
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-p99614sy,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+p99614sy,1,1,1,
 q00848wh,1,1,1,
 q02710ts,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
@@ -1122,7 +1175,15 @@ r56325cc,0,0,0,"No submission was found under the prog1_rugby tag for the rugby 
 "
 r56677rp,1,1,1,
 r61875lj,1,1,1,
-r77503bd,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+r77503bd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_r77503bd/./rugby_r77503bd.py"", line 8, in <module>
+     with open(filepath, 'r') as fp:
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 r82969js,1,1,1,
 r83187jc,1,1,1,
@@ -1145,7 +1206,15 @@ s03884aa,0,0,0,"Submission ran but did not finish its execution due to the error
 s09672ba,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 s11642lf,1,1,1,
-s13496vg,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+s13496vg,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_s13496vg/./rugby_s13496vg.py"", line 35, in <module>
+     all_files = os.listdir(Input_Location)
+ FileNotFoundError: [Errno 2] No such file or directory: '/test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 s13506jc,1,1,1,
 s23522ym,1,1,1,
@@ -1192,7 +1261,16 @@ s78866kz,0,0,0,"No submission was found under the prog1_rugby tag for the rugby 
 "
 s79104mh,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-s80648sh,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
+s80648sh,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_s80648sh/./rugby_s80648sh.py"", line 28, in <module>
+     scoreline = getScore()
+   File ""***Removed due to privacy***/rugby_s80648sh/./rugby_s80648sh.py"", line 6, in getScore
+     file = open(inputfile)
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
+ 
  No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 s86124sy,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
@@ -1210,8 +1288,7 @@ t09329lw,1,1,1,
 t17981qx,1,1,1,
 t28063tz,1,1,1,
 t28107tj,1,1,1,
-t30023mm,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+t30023mm,1,1,1,
 t50885aa,1,1,1,
 t56091yd,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
@@ -1276,13 +1353,28 @@ u54258as,0,0,0,"No submission was found under the prog1_rugby tag for the rugby 
 "
 u59286dh,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-u60328el,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
-u60770mc,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+u60328el,1,1,1,
+u60770mc,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_u60770mc/./rugby_u60770mc.py"", line 3, in <module>
+     file = open(sys.argv[1],""r"")  
+ IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 u61944rf,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-u63378mr,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+u63378mr,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_u63378mr/./rugby_u63378mr.py"", line 37, in <module>
+     all_files = os.listdir(Input_Location)
+ FileNotFoundError: [Errno 2] No such file or directory: '/test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 u68780be,1,1,1,
 u71922pz,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
@@ -1292,7 +1384,8 @@ u81076nr,0,0,0,"No submission was found under the prog1_rugby tag for the rugby 
 "
 u82766jh,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
-u89014ab,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+u89014ab,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 u95206ma,1,1,1,
 v04109yk,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
@@ -1336,8 +1429,7 @@ v63881oq,0,0,0,"No files were created within the results folder. (This does not 
 v65391yc,1,1,1,
 v74211xw,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-v78159ee,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+v78159ee,1,1,1,
 v78643ld,1,1,1,
 v79907sy,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
  This does not mean the program did not execute however, it may or may not have produced some files or none: 
@@ -1399,13 +1491,10 @@ w73862jb,1,1,1,
 w75724sb,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 w80290jl,1,1,1,
-w90012gt,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
- No files were created within the results folder. (This does not mean files were not created elsewhere)
-"
+w90012gt,1,1,1,
 w92704dw,1,1,1,
 x09137dp,1,1,1,
-x12691yl,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+x12691yl,1,1,1,
 x28381ot,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
  Output files were found however no output file was found for test_file 2 with the correct name format
  Output files were found however no output file was found for test_file 3 with the correct name format
@@ -1435,7 +1524,13 @@ x43615kc,1,1,1,
 x43881he,1,1,1,
 x46833ng,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
-x47813as,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+x47813as,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  usage: rugby_x47813as.py [-h] input_scores output_ratio
+ rugby_x47813as.py: error: argument input_scores: can't open './test_files_rugby': [Errno 21] Is a directory: './test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 x48913aw,1,1,1,
 x57595ts,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
@@ -1479,7 +1574,15 @@ y41988al,0,0,0,"Submission ran indefinitely and did not finish its execution.
 "
 y42270sg,1,1,1,
 y44694jk,1,1,1,
-y44780cs,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+y44780cs,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
+ This does not mean the program did not execute however, it may or may not have produced some files or none: 
+ 
+  Traceback (most recent call last):
+   File ""***Removed due to privacy***/rugby_y44780cs/./rugby_y44780cs.py"", line 36, in <module>
+     files = os.listdir(location_input)
+ FileNotFoundError: [Errno 2] No such file or directory: '/test_files_rugby'
+ 
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 y45718mk,0,0,0,"Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
  No files were created within the results folder. (This does not mean files were not created elsewhere)
@@ -1520,20 +1623,11 @@ y55928xn,0,0,0,"Submission ran but did not finish its execution due to the error
 "
 y57776rs,1,1,1,
 y59276ma,1,1,1,
-y59426ra,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
-"
+y59426ra,1,1,1,
 y60150st,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "
 y62498rh,1,1,1,
-y65306ws,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
- This does not mean the program did not execute however, it may or may not have produced some files or none: 
- 
-  Traceback (most recent call last):
-   File ""***Removed due to privacy***/rugby_y65306ws/./rugby_y65306ws.py"", line 8, in <module>
-     file = open(inputFile, ""r"")
- IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
- 
- No files were created within the results folder. (This does not mean files were not created elsewhere)
+y65306ws,0,0,0,"No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 y66466tl,0,0,0,"Output files were found however no output file was found for test_file 1 with the correct name format
  Output files were found however no output file was found for test_file 2 with the correct name format
@@ -1545,18 +1639,11 @@ y70582kd,1,1,1,
 y72828ah,1,1,1,
 y77372db,1,1,1,
 y78202oa,1,1,1,
-y96758ma,0,0,0,"Submission ran but did not finish its execution due to the errors below. 
- This does not mean the program did not execute however, it may or may not have produced some files or none: 
- 
-  Traceback (most recent call last):
-   File ""***Removed due to privacy***/rugby_y96758ma/./rugby_y96758ma.py"", line 4, in <module>
-     f = open(filename, 'r')
- IsADirectoryError: [Errno 21] Is a directory: './test_files_rugby'
- 
- No files were created within the results folder. (This does not mean files were not created elsewhere)
-"
+y96758ma,1,1,1,
 y99614zh,1,1,1,
-z03463sy,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
+z03463sy,0,0,0,"Submission ran indefinitely and did not finish its execution. 
+ This does not mean the program did not execute it may or may not have produced some files or none
+ No files were created within the results folder. (This does not mean files were not created elsewhere)
 "
 z12203pg,0,0,0,"No submission was found under the prog1_rugby tag for the rugby task
 "

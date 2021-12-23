@@ -1,5 +1,6 @@
 import os
 import subprocess
+from fnmatch import fnmatch
 
 if __name__ == '__main__':
 
@@ -55,14 +56,28 @@ if __name__ == '__main__':
 
 
         #Get files from unpack if they exist and put them in the right folder
-        if os.path.exists(f'./unpacked_repos/{student}_prog1_rugby'):
-            list_of_py_files = os.listdir(f'./unpacked_repos/{student}_prog1_rugby')
-            #Copy all python files in directory into folders
-            for file in list_of_py_files:
-                if file.endswith('.py'):
-                    move_input = ['cp', f'./unpacked_repos/{student}_prog1_rugby/{file}', f'./CW_rugby/rugby_{student}']
-                    subprocess.call(move_input)
+        #if os.path.exists(f'./unpacked_repos/{student}_prog1_rugby'):
+            #list_of_py_files = os.listdir(f'./unpacked_repos/{student}_prog1_rugby')
 
+            #check if they added sub folders and also search those for files
+            #for file in list_of_py_files:
+                #if os.path.isdir(file):
+                    #temp_list = os.listdir(f'./unpacked_repos/{student}_prog1_rugby/{file}')
+                    #list_of_py_files.append(temp_list)
+
+            #Copy all python files in directory into folders
+            #for file in list_of_py_files:
+                #if file.endswith('.py'):
+                    #move_input = ['cp', f'./unpacked_repos/{student}_prog1_rugby/{file}', f'./CW_rugby/rugby_{student}']
+                    #subprocess.call(move_input)
+
+        # search all direcotry and subdirectorys to find py files in the unpackked repo
+        print(student)
+        for path, subdirs, files in os.walk(f'./unpacked_repos/{student}_prog1_rugby'):
+            for name in files:
+                if fnmatch(name,"*.py"):
+                    move_input = ['cp', f'{path}/{name}', f'./CW_rugby/rugby_{student}']
+                    subprocess.call(move_input)
 
     count = 0
     #run the courseworks

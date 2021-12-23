@@ -1,2 +1,9 @@
-Submission was found under the prog1_rugby tag for the rugby task but the file is named incorrectly
+Submission ran but did not finish its execution due to the errors below. 
+This does not mean the program did not execute however, it may or may not have produced some files or none: 
+
+   File "***Removed due to privacy***/rugby_g77134dr/./rugby_g77134dr.py", line 45
+    elif letter == "d":
+                       ^
+IndentationError: unindent does not match any outer indentation level
+
 No files were created within the results folder. (This does not mean files were not created elsewhere)

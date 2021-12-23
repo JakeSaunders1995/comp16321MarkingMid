@@ -94,6 +94,7 @@ for fn in os.listdir(os.getcwd()):
                     if l1[i][j]==a[k]:
                         ans.append(a[k-3])
             ans.append(' ')
+
         fn=fn[:-4]
         ofn=fn+'_n91131bw.txt'
         os.chdir(path2)
